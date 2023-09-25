@@ -21,7 +21,19 @@
     | Key in | 입력하다 | 암호 입력할 때 |
     | Opt in / out | (메시지나 광고를 수신하도록) 선택하다 / 배제하다, (정보 제공을) 동의하다 / 철회하다 | please opt in to get exclusive offers by email 하면 특별 프로모션 수신을 원하면 동의해달라는 거 |
 
-| Devops | 개발(Dev이opment)과 운영(Operations)의 합성어로 지속적인 유지관리, 업데이트, 배포를 통해 개발팀과 운영팀 사이의 소통과 협업을 장려하는 시스템 및 개발 환경을 의미합니다. 데브옵스 엔지니어는 시스템 유지관리와 배포, 업데이트를 통한 안정적인 시스템 운영을 담당합니다. |
-| --- | --- |
-|  |  |
-|  |  |
+    | Devops | 개발(Dev이opment)과 운영(Operations)의 합성어로 지속적인 유지관리, 업데이트, 배포를 통해 개발팀과 운영팀 사이의 소통과 협업을 장려하는 시스템 및 개발 환경을 의미합니다. 데브옵스 엔지니어는 시스템 유지관리와 배포, 업데이트를 통한 안정적인 시스템 운영을 담당합니다. |
+    | --- | --- |
+    |  |  |
+    |  |  |
+
+### 4. ( ), { }, [ ], ~, *, 너희들 이름은 뭐니?
+| 단어 | 뜻 | 비고 |
+| --- | --- | --- |
+| Tilde | ~(물결표) |  |
+| Parentheses | ( ) |  |
+| Square Brackets | [ ] |  |
+| Curly Brackets | { } | 뽀글머리를 생각하자. |
+| Angle Brackets | < > | 꺽쇠괄호, 특별한 의미 단위 구분 |
+| Open Angle Bracket, Less Than Symbol | < | 수식에서 대소비교시 적음을 표현, html 태그 시작부분 |
+| Close Angle Bracket, Greater Than Symbol | > | 수식에서 대소비교 시 큼을 표현, html 태그 끝부분 |
+| Number Sign, Pound, Hash | # |  |
