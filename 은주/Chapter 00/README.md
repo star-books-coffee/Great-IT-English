@@ -1,6 +1,4 @@
-## Chapter 0_ Intro
-
-### 2. 한국인 머리 아프게 만드는 영어의 특징
+## 2. 한국인 머리 아프게 만드는 영어의 특징
 
 - `On the server` : 서버에서 
 `In the browser` : 브라우저에서
@@ -14,9 +12,26 @@
 `Opt out` : 배제하다 / 철회하다<br>
 `Go online` : 온라인 상태가 되다 (Go offline)<br>
 `Filter out` : 걸러내다
+<br>
 
-### 3. 기초를 튼튼하게, IT 실무에 꼭 필요한 전문 용어 List
+## 3. 기초를 튼튼하게, IT 실무에 꼭 필요한 전문 용어 List
 - `Headless` : UI 없이 작동가능한 프로그램
 - `Backlog` : 개발되어야 하는 기능, 수정되어야 하는 버그와 같은 작업 목록
 - `Sandbox` : 외부 변수와 독립, 통제된 조건을 기반으로 하는 테스트 환경이나 상황
 - `Cms` (Content Management System) : 사용자가 디지털 콘텐츠를 만들고, 편집하고, 발행하는 시스템 ex) 워드프레스 (블로그, 콘텐츠 관리 솔루션)
+- `WYSIWYG` (What You See Is What You Get) : 편집화면에 입력한 글자/이미지/영상 등이 출력물에 동일하게 표시되는 방식 / 위지윅
+- `CDN` (Content Delivery Network) : 콘텐츠를 효율적으로 전달하기 위해 **지리적으로 분산된 서버 집단**, 더 가까운 곳에 위치한 서버를 통해 콘텐츠를 빠르게 주고 받거나 네트워크 혼잡 방지 및 보안 개선
+- `CI` (Continuous Integration) : 개발진행하면서 자동적으로 코드변경사항을 빌드 및 테스트
+- `CD` (Continous Deployment / Delivery) : 업데이트된 내용이 고객이 사용하는 프로덕션 환경까지 자동 배포되는 것
+<br>
+
+## 4. ( ), { }, [ ], ~, *, 너희들 이름은 뭐니?
+
+- `~` : Tilde 틸드~
+    - 유닉스/리눅스 기반 OS 터미널에서 홈 디렉토리로 이동할 대 사용하는 물결표
+- `( )` : Parentheses 페뤈띠씨스~
+- `[ ]` : Square Brackets
+- `{ }` : Curly Brackets
+- `< >` : Angle Brackets
+- `#` : Number Sign, Pound, Hash
+    - URL 의 일부분 www.naver.com/#/hello
