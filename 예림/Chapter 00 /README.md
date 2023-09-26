@@ -21,10 +21,24 @@
     | Key in | 입력하다 | 암호 입력할 때 |
     | Opt in / out | (메시지나 광고를 수신하도록) 선택하다 / 배제하다, (정보 제공을) 동의하다 / 철회하다 | please opt in to get exclusive offers by email 하면 특별 프로모션 수신을 원하면 동의해달라는 거 |
 
-    | Devops | 개발(Dev이opment)과 운영(Operations)의 합성어로 지속적인 유지관리, 업데이트, 배포를 통해 개발팀과 운영팀 사이의 소통과 협업을 장려하는 시스템 및 개발 환경을 의미합니다. 데브옵스 엔지니어는 시스템 유지관리와 배포, 업데이트를 통한 안정적인 시스템 운영을 담당합니다. |
-    | --- | --- |
-    |  |  |
-    |  |  |
+### 3. 기초를 튼튼하게, IT 실무에 꼭 필요한 전문 용어 List
+
+- `Devops` : 개발(Devlopment)과 운영(Operations)의 합성어로 지속적인 유지관리, 업데이트, 배포를 통해 개발팀과 운영팀 사이의 소통과 협업을 장려하는 시스템 및 개발 환경
+- `Stack` : 특정 목적을 달성하기 위한 동등한 수준 및 카테고리의 기술 모음 (이런 뜻이었군)
+    
+    > **🇺🇲 예시**
+    > - 프론트엔드: React, Recoil
+    > - 백엔드 : NodeJS, Express, Mongoose
+    > - 데이터베이스 : MongoDB
+    > - 클라우드 : AWS
+    
+- `Headless` : UI 없이 작동 가능한 프로그램 → 콘텐츠 및 데이터와 UI 분리
+  
+  <img src="https://images.idgesg.net/images/article/2018/09/head-in-clouds_magrite_headless_suit_derby-hat_unknown-100773118-large.jpg?auto=webp&quality=85,70" width=600>
+  
+  <img src="https://res.cloudinary.com/ireaderinokun/image/upload/v1542872853/headful-vs-headless_n2yodt.jpg" width=600>
+
+- `Legacy System` : 낡고 오래된 기술이나 소프트웨어, 컴퓨터 시스템
 
 ### 4. ( ), { }, [ ], ~, *, 너희들 이름은 뭐니?
 | 단어 | 뜻 | 비고 |
