@@ -12,7 +12,6 @@
 `Opt out` : 배제하다 / 철회하다<br>
 `Go online` : 온라인 상태가 되다 (Go offline)<br>
 `Filter out` : 걸러내다
-<br>
 
 ## 3. 기초를 튼튼하게, IT 실무에 꼭 필요한 전문 용어 List
 - `Headless` : UI 없이 작동가능한 프로그램
@@ -23,7 +22,6 @@
 - `CDN` (Content Delivery Network) : 콘텐츠를 효율적으로 전달하기 위해 **지리적으로 분산된 서버 집단**, 더 가까운 곳에 위치한 서버를 통해 콘텐츠를 빠르게 주고 받거나 네트워크 혼잡 방지 및 보안 개선
 - `CI` (Continuous Integration) : 개발진행하면서 자동적으로 코드변경사항을 빌드 및 테스트
 - `CD` (Continous Deployment / Delivery) : 업데이트된 내용이 고객이 사용하는 프로덕션 환경까지 자동 배포되는 것
-<br>
 
 ## 4. ( ), { }, [ ], ~, *, 너희들 이름은 뭐니?
 
@@ -35,3 +33,10 @@
 - `< >` : Angle Brackets
 - `#` : Number Sign, Pound, Hash
     - URL 의 일부분 www.naver.com/#/hello
+- `@` : At Sign, Ampersat
+    - 관습적으로 코드 내 문서를 작성할 때 매개변수, 반환값 등 주요 요소를 설명할 때 사용
+- `!` : Exclamation Mark
+    - 반대 (NOT) 을 표시
+- `*` : Asterisk
+- `^` : CARET, Circumflex
+    - XOR 비트연산
