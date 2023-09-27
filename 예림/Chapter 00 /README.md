@@ -39,6 +39,28 @@
   <img src="https://res.cloudinary.com/ireaderinokun/image/upload/v1542872853/headful-vs-headless_n2yodt.jpg" width=600>
 
 - `Legacy System` : 낡고 오래된 기술이나 소프트웨어, 컴퓨터 시스템
+- `Backlog` : 로드맵을 달성하기 위해 개발되어야 하는 기능, 수정되어야 하는 버그와 같은 작업 목록
+    
+    <img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2017-03/SprintBacklog_0.png" width=600>
+    
+- `Sprint` : 애자일 프로젝트에서 개발 사이클 반복을 위한 짧은 정해진 기간
+    - ‘전력질주’, ‘전력 질주하다’
+    - 스프린트를 통해 새로운 기능을 개발하거나 백로그 처리
+    - The team is snipping more predictable and consistent products after implementing the sprints.
+- `Sandbox` : 외부 변수와 독립 및 통제된 조건을 기반으로 하는 테스트 환경이나 상황
+- `Build` : 배포되기 전 상태인 특정 버전의 프로그램
+- `Runtime` : 프로그램이 실행되고 있는 상황 🏃‍♀️
+
+### 두문자어
+
+- `MVP` : 테스터 고객에게 피드백을 받기 위해 최소한의 기능을 구현한 제품
+    - Minimum Viable Product
+    - `an` MVP
+- `CMS` : 사용자가 디지털 콘텐츠를 만들고, 편집하고, 발행하는 시스템
+    - 워드프레스 같은 블로그, 콘텐츠 관리 솔루션
+- `DNS` : 네트워크 주소 또는 IP 주소를 식별하기 위한 시스템
+- `GUI` : 아이콘과 같은 그래픽 요소를 활용하여 컴퓨터와 상호작용하는 인터페이스
+    - 반대로, 텍스트 기반 명령어를 통해 컴퓨터와 상호작용하는 인터페이스를 Command Line Interface(CLI)라고 함.
 
 ### 4. ( ), { }, [ ], ~, *, 너희들 이름은 뭐니?
 | 단어 | 뜻 | 비고 |
