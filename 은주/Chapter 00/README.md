@@ -38,5 +38,9 @@
 - `!` : Exclamation Mark
     - 반대 (NOT) 을 표시
 - `*` : Asterisk
-- `^` : CARET, Circumflex
+- `^` : Caret, Circumflex
     - XOR 비트연산
+- `_` : Underscore
+    - 변수 앞에 밑줄을 붙여 내부적으로 사용되는 변수를 의미하기도 함
+- ` : Backtick, Grave Accent
+- `|` : Vertical Bar, Pipe
