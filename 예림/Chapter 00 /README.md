@@ -61,6 +61,13 @@
 - `DNS` : 네트워크 주소 또는 IP 주소를 식별하기 위한 시스템
 - `GUI` : 아이콘과 같은 그래픽 요소를 활용하여 컴퓨터와 상호작용하는 인터페이스
     - 반대로, 텍스트 기반 명령어를 통해 컴퓨터와 상호작용하는 인터페이스를 Command Line Interface(CLI)라고 함.
+- `WYSIWYG` (What You See Is What You Get): 편집 화면에 입력한 글자, 이미지, 영상 등의 콘텐츠가 출력물에 동일하게 표시되는 방식을 뜻하며, “위지윅”이라고 읽는다
+- `CDN` : 콘텐츠를 효울적으로 전달하기 위해 지리적으로 분산된 서버 집단
+- `CI/CD`(Continuous Integration / Continuous Deployment) : 지속적 통합 / 지속적 배포를 의미
+    - CI (지속적 통합) : 개발을 진행하면서 자동적으로 코드 변경사항을 빌드 및 테스트하는 것
+    - CD (지속적 배포) : 업데이트된 내용이 고객이 사용하는 production 환경까지 자동적으로 배포되는 것 (지속적 전달을 의미하는 Continuous Delivery라고 표현하는 경우도 있음.)
+- `RegEx` (Regular Expression): 정규식. 문자열에서 특정 문자 조합을 찾거나 텍스트 검색 패턴을 지정함.
+    - A RegEx specifies a set of strings that matches it.
 
 ### 4. ( ), { }, [ ], ~, *, 너희들 이름은 뭐니?
 | 단어 | 뜻 | 비고 |
