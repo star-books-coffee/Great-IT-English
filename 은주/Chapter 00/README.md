@@ -37,7 +37,7 @@
     - 관습적으로 코드 내 문서를 작성할 때 매개변수, 반환값 등 주요 요소를 설명할 때 사용
 - `!` : Exclamation Mark
     - 반대 (NOT) 을 표시
-- `*` : Asterisk
+- `*` : Asterisk, Star
 - `^` : Caret, Circumflex
     - XOR 비트연산
 - `_` : Underscore
