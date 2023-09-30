@@ -81,3 +81,15 @@
 | Close Angle Bracket, Greater Than Symbol | > | 수식에서 대소비교 시 큼을 표현, html 태그 끝부분 |
 | Number Sign, Pound, Hash | # |  |
 | At Sign, Ampersat | @ | 
+| Exclamation Mark | ! |  |
+| Percent Sign | % |  |
+| Asterisk, Star | * | 정규식의 와일드 카드, SQL의 모든 칼럼 선택 |
+| Caret, Circumflex | ^ | 프로그래밍 정규식에서 문자열의 시작과 매칭되는 것[^abc] |
+| Dollar Sign | $ | 문자열의 끝과 매칭되는 것 |
+| Question Mark | ? |  |
+| Backslash | \ |  |
+| Forward Slash | / |  |
+| Backtick, Grave Accent | ` |  |
+| Double Quotation Marks | “ “ | ‘ ‘ 는 Single |
+| Vertical Bar, Pipe | \| |  |
+| Ampersand, And Sign | & |  |
