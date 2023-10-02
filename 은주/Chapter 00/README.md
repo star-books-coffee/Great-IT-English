@@ -44,3 +44,11 @@
     - 변수 앞에 밑줄을 붙여 내부적으로 사용되는 변수를 의미하기도 함
 - ` : Backtick, Grave Accent
 - `|` : Vertical Bar, Pipe
+
+## 5. 너에게 이름을 선사하노라! camelCase, snake_casef 그리고..
+
+- `Camel Case` : 가장 자주 사용되는 네이밍 관습이지만 파이썬은 Snake Case 사용을 권장
+- `Pascal Case` : 단어를 합칠 때 모든 단어의 첫 글자를 대문자로 붙이는 방식, UpperCamelCase 라고도 부름
+    - 클래스 및 컴포넌트 네이밍에 사용됨
+    - 관계형 데이터베이스의 테이블 이름으로도 사용
+- `Kebab Case` : 글자를 합칠 때 공백을 하이픈 (- hyphen)으로 대체하는 방식
