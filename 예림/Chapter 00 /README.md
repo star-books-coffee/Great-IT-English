@@ -93,3 +93,30 @@
 | Double Quotation Marks | “ “ | ‘ ‘ 는 Single |
 | Vertical Bar, Pipe | \| |  |
 | Ampersand, And Sign | & |  |
+
+
+### 5. 너에게 이름을 선사하노라! camelCase, snake_casef 그리고..
+
+`Camel Case`
+
+- 예) Geek Haus → geekHaus
+
+`Pascal Case`
+
+모든 단어의 첫 글자를 대문자로 붙이는 방식
+
+- 예) Geek Haus → GeekHaus
+
+`Snake Case`
+
+Python이 권장함 / 전역 상수는 일반적으로 snake_case 사용
+
+- 예) Geek Haus → Geek_Haus
+- 예) Max inventory limit → MAX_INVENTORY_LIMIT
+
+`Kebab Case`
+
+글자를 합칠 때 공백을 하이픈(-)으로 대체하는 방식 / 케밥에 음식이 꽂혀있는 것을 연상하면 됨.
+
+- 예) Geek Haus → Geek-Haus
+- 예) site-header
