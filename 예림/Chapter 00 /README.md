@@ -1,11 +1,11 @@
-## Chapter 0_ Intro
-### 1. 하는 일도 바쁜데, 왜 영어를 배워야 할까?
+# Chapter 0_ Intro
+## 1. 하는 일도 바쁜데, 왜 영어를 배워야 할까?
 
 - 영어로 검색하면 양질의 검색 결과를 얻을 수 있다
 - 영어를 배우면 나의 무우대를 바꿀 수 있다
 - 연봉을 많이 받을 수 있다 💰💵 💸
 
-### 2. 한국인 머리 아프게 하는 영어의 특징
+## 2. 한국인 머리 아프게 하는 영어의 특징
 
 - 한국어와 영어는 어순이 다르다
 - 영어는 전치사가 미묘하다(On the sever In the browser)
@@ -21,7 +21,7 @@
     | Key in | 입력하다 | 암호 입력할 때 |
     | Opt in / out | (메시지나 광고를 수신하도록) 선택하다 / 배제하다, (정보 제공을) 동의하다 / 철회하다 | please opt in to get exclusive offers by email 하면 특별 프로모션 수신을 원하면 동의해달라는 거 |
 
-### 3. 기초를 튼튼하게, IT 실무에 꼭 필요한 전문 용어 List
+## 3. 기초를 튼튼하게, IT 실무에 꼭 필요한 전문 용어 List
 
 - `Devops` : 개발(Devlopment)과 운영(Operations)의 합성어로 지속적인 유지관리, 업데이트, 배포를 통해 개발팀과 운영팀 사이의 소통과 협업을 장려하는 시스템 및 개발 환경
 - `Stack` : 특정 목적을 달성하기 위한 동등한 수준 및 카테고리의 기술 모음 (이런 뜻이었군)
@@ -69,7 +69,7 @@
 - `RegEx` (Regular Expression): 정규식. 문자열에서 특정 문자 조합을 찾거나 텍스트 검색 패턴을 지정함.
     - A RegEx specifies a set of strings that matches it.
 
-### 4. ( ), { }, [ ], ~, *, 너희들 이름은 뭐니?
+## 4. ( ), { }, [ ], ~, *, 너희들 이름은 뭐니?
 | 단어 | 뜻 | 비고 |
 | --- | --- | --- |
 | Tilde | ~(물결표) |  |
@@ -95,28 +95,36 @@
 | Ampersand, And Sign | & |  |
 
 
-### 5. 너에게 이름을 선사하노라! camelCase, snake_casef 그리고..
+## 5. 너에게 이름을 선사하노라! camelCase, snake_casef 그리고..
 
-`Camel Case`
+### `Camel Case`
 
 - 예) Geek Haus → geekHaus
 
-`Pascal Case`
+### `Pascal Case`
 
 모든 단어의 첫 글자를 대문자로 붙이는 방식
 
 - 예) Geek Haus → GeekHaus
 
-`Snake Case`
+### `Snake Case`
 
 Python이 권장함 / 전역 상수는 일반적으로 snake_case 사용
 
 - 예) Geek Haus → Geek_Haus
 - 예) Max inventory limit → MAX_INVENTORY_LIMIT
 
-`Kebab Case`
+### `Kebab Case`
 
 글자를 합칠 때 공백을 하이픈(-)으로 대체하는 방식 / 케밥에 음식이 꽂혀있는 것을 연상하면 됨.
 
 - 예) Geek Haus → Geek-Haus
 - 예) site-header
+
+## 6. 적당히는 이제 그만! 제대로 알아야 하는 IT 필수 영단어 & 표현
+
+| 단어 | 뜻 | 예문 | 예문 뜻 |
+| --- | --- | --- | --- |
+| Allocate | 할당하다, 배분하다 | Can we allocate more RAM to a speicific process?  | 특정 프로세서에 RAM을 더 할당할 수 있을까요? |
+| Assemble | 모으다, 조립하다 | Finally, we can assemble all the components and see the result. | 마침내, 우리는 모든 컴포넌트를 모아 결과를 볼 수 있게 되었습니다. |
+| Asynchronous | 비동기적인 | Asynchronous calls do not wait for the API call to return from the server. | 비동기 호출은 API 콜에 대한 서버의 결과를 기다리지 않습니다. |
