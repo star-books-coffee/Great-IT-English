@@ -52,3 +52,14 @@
     - 클래스 및 컴포넌트 네이밍에 사용됨
     - 관계형 데이터베이스의 테이블 이름으로도 사용
 - `Kebab Case` : 글자를 합칠 때 공백을 하이픈 (- hyphen)으로 대체하는 방식
+
+## 6. 적당히는 이제 그만! 제대로 알아야 하는 IT 필수 영단어 & 표현
+
+- Deprecated의 발음은 "디"가 아닌 "데"로 시작
+- `backward-compatible` : 하위 호환되는
+    - The new version is backward-compatible, which means you can still use the old version
+- `escape` : (소프트웨어에서) 특수 문자나 텍스트로 특정 행동을 하다, (문자의 원래 기능을) 무시하다
+- `implement` : (도구나 수단을) 제공하다, (시스템이나 계획을) 활용하다 / 도입하다 / 구현하다
+- `integrate` : 통합하다 / 연동하다
+- `invoke` : (파일이나 프로그램을) 실행(호출) 하다, (느낌이나 상상을) 불러일으키다
+    - 참고 : 직접적으로 함수를 호줄하면 Call 을, **별도의 메소드를 통해 간접적으로 함수를 호줄**하면 Invoke를 사용
