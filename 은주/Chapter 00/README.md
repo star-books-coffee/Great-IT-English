@@ -62,4 +62,14 @@
 - `implement` : (도구나 수단을) 제공하다, (시스템이나 계획을) 활용하다 / 도입하다 / 구현하다
 - `integrate` : 통합하다 / 연동하다
 - `invoke` : (파일이나 프로그램을) 실행(호출) 하다, (느낌이나 상상을) 불러일으키다
-    - 참고 : 직접적으로 함수를 호줄하면 Call 을, **별도의 메소드를 통해 간접적으로 함수를 호줄**하면 Invoke를 사용
+    - 참고 : 직접적으로 함수를 호줄하면 Call 을, **별도의 메소드를 통해 간접적으로 함수를 호출**하면 Invoke를 사용
+- `mount` : 올리다, 증가하다, 시작하다
+- `navigate` : (인터넷, 웹사이트를) 둘러보다, 돌아다니다
+- `out of box` : 설정이나 설치 없이 바로 사용 가능한, 기존의 틀을 깨는
+    - out-of-box == off-the-shelf
+    - ready-made : 기성품의
+- `opinionated` : 체계와 시스템을 강하게 갖춘, 독선적인
+- `truncated` : 짧게 하다, 잘라내다
+- `yield` : 반환하다, (결과를) 산출하다
+- 이 함수는 강력하게 타입화된 인자들을 받는다
+    - This function ~~receives~~ **accepts** strongly-typed arguments
