@@ -128,3 +128,6 @@ Python이 권장함 / 전역 상수는 일반적으로 snake_case 사용
 | Allocate | 할당하다, 배분하다 | Can we allocate more RAM to a speicific process?  | 특정 프로세서에 RAM을 더 할당할 수 있을까요? |
 | Assemble | 모으다, 조립하다 | Finally, we can assemble all the components and see the result. | 마침내, 우리는 모든 컴포넌트를 모아 결과를 볼 수 있게 되었습니다. |
 | Asynchronous | 비동기적인 | Asynchronous calls do not wait for the API call to return from the server. | 비동기 호출은 API 콜에 대한 서버의 결과를 기다리지 않습니다. |
+| Backward-compatible | 하휘 호환되는 | The new version is backward-compatible, which means you can still use the old version. | 새 버전은 하휘 호환 가능합니다. 즉, 이전 버전도 여전히 사용할 수 있습니다. |
+| Build | [동] (프로덕트)를 만들어내다, (건물을) 짓다. / [명] (소프트웨어 빌드 프로세스로 인한) 결과물 | We are building a program that utilizes the latest tech stacks. | 우리는 최신 기술 스택을 활용해 프로그램을 빌드하고 있습니다. |
+| Bundle | [동] 묶다, (소프트웨어 등을) 추가로 주다 / [명] 묶음, 번들 | The default applications are bundled with the operating systmem. | 기본 애플리케이션들은 운영 체제와 함께 제공됩 니다. |
