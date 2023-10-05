@@ -131,3 +131,8 @@ Python이 권장함 / 전역 상수는 일반적으로 snake_case 사용
 | Backward-compatible | 하휘 호환되는 | The new version is backward-compatible, which means you can still use the old version. | 새 버전은 하휘 호환 가능합니다. 즉, 이전 버전도 여전히 사용할 수 있습니다. |
 | Build | [동] (프로덕트)를 만들어내다, (건물을) 짓다. / [명] (소프트웨어 빌드 프로세스로 인한) 결과물 | We are building a program that utilizes the latest tech stacks. | 우리는 최신 기술 스택을 활용해 프로그램을 빌드하고 있습니다. |
 | Bundle | [동] 묶다, (소프트웨어 등을) 추가로 주다 / [명] 묶음, 번들 | The default applications are bundled with the operating systmem. | 기본 애플리케이션들은 운영 체제와 함께 제공됩 니다. |
+| Compile | 명령어를 번역(컴파일)하다, (여러 출처에서 자료를 가져와) 엮다 | TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. | 타입스크립트는 일반적인(plain) 자바스크립트로 컴파일되는 자바스크립트의 타입화(typed) 된 상위 집합(superset)입니다. |  |
+| Deprecate | 사용을 권장하지 않다 | Warning : this method is deprecated. | 경고 : 이 메소드는 더 이상 사용을 권장하지 않습니다. |  |
+| Escape | (소프트웨어에서) 특수 문자나 텍스트로 특정 행동을 하다, (문자의 원래 기능을) 무시하다 | Escaping is a method that allows us to tell a computer to do something special with the text we supply or to ignore the special function of a character.| 이스케이핑은 컴퓨터가 주어진 텍스트로 특정한 행동을 하도록 하거나, 문자의 특별한 기능을 무시하도록 하는 것입니다. |  |
+| Generic | 포괄적인, 일반적인 | Generic software can be used for a number of different purposes without requiring modification. | 일반적 소프트웨어는 변경할 필요 없이 다양한 용도로 사용될 수 있습니다. |  |
+| Immutable | 변경할 수 없는, 불변의 | This is an immutable object. | 이 객체는 변하지 않습니다. |  |
