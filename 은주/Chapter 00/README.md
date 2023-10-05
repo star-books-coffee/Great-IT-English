@@ -73,3 +73,26 @@
 - `yield` : 반환하다, (결과를) 산출하다
 - 이 함수는 강력하게 타입화된 인자들을 받는다
     - This function ~~receives~~ **accepts** strongly-typed arguments
+<br>
+
+- On
+    - 주로 **스크린으로 활용하는** 서비스, 웹사이트
+        - `On Github` (스마트폰, 컴퓨터 등 전자기기의 **스크린을 보며 소통하는 상황**에서 사용 / **스크린으로 보이지 않는** 애플리케이션의 특정 기능이나 시스템의 일부를 말할 때 In the App, In Jira) , `On the Website`
+    - 컴퓨터, 네트워크와 같은 **통신매체와의 관계**를 나타냄
+        - On the Server, On Windows, On the network (**같은 네트워크 안에** 프린터, 컴퓨터, 스마트폰과 같은 디바이스 칭할 때 <br> → There are 3 printers on the network
+        - 라우터, 스위치, 케이블 등과 함께 **네트워크 구성을 표현**할 때는 In the network <br> → There is an issue with the router in the network), On Wifi
+- In
+    - 데이터 저장
+        - In the database, In the document
+    - 프로그램을 수행하는 공간 및 시스템과의 관계
+        - In the directory, In the header, In the code
+    - `In (프로그래밍언어)` → I can easily write a script in Typescript
+- At
+    - 전치사 In 보다 좁은 범위로, **특정 시간 및 공간과의 관계**를 나타냄
+        - work at Google, At the beginning, At (도메인)
+- To
+    - **방향성 내포**하며 **시간, 공간, 데이터** 등이 작용하는 다른 대상과의 관계
+        - Add A to B
+        - Pass {data} to {function or component}
+        - Change A to B
+        - Lead A to B
