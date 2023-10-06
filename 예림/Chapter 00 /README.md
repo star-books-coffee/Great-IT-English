@@ -136,3 +136,5 @@ Python이 권장함 / 전역 상수는 일반적으로 snake_case 사용
 | Escape | (소프트웨어에서) 특수 문자나 텍스트로 특정 행동을 하다, (문자의 원래 기능을) 무시하다 | Escaping is a method that allows us to tell a computer to do something special with the text we supply or to ignore the special function of a character.| 이스케이핑은 컴퓨터가 주어진 텍스트로 특정한 행동을 하도록 하거나, 문자의 특별한 기능을 무시하도록 하는 것입니다. |  |
 | Generic | 포괄적인, 일반적인 | Generic software can be used for a number of different purposes without requiring modification. | 일반적 소프트웨어는 변경할 필요 없이 다양한 용도로 사용될 수 있습니다. |  |
 | Immutable | 변경할 수 없는, 불변의 | This is an immutable object. | 이 객체는 변하지 않습니다. |  |
+| Mount | 올리다, 증가하다, 시작하다 | The mound command attaches the filesystem of an external device to the filesystem of a system. | 마운트 명령어는 외부 디바이스의 파일 시스템을 시스템의 파일 시스템에 붙입니다. |  |
+| Out of the box | 설정이나 설치 없이 바로 사용 가능한, 기존의 틀을 깨는 | Out-of-box sofrtware, also called off-the-shelf, refers to software that is ready-made for the general public. | Off the shelf라고도 불리는 Out of the box 소프트웨어는 대중이 바로 사용할 수 있는(ready-made, 기성품의) 소프트웨어를 의미합니다. |  |
