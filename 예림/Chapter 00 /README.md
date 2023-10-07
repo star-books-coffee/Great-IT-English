@@ -138,3 +138,11 @@ Python이 권장함 / 전역 상수는 일반적으로 snake_case 사용
 | Immutable | 변경할 수 없는, 불변의 | This is an immutable object. | 이 객체는 변하지 않습니다. |  |
 | Mount | 올리다, 증가하다, 시작하다 | The mound command attaches the filesystem of an external device to the filesystem of a system. | 마운트 명령어는 외부 디바이스의 파일 시스템을 시스템의 파일 시스템에 붙입니다. |  |
 | Out of the box | 설정이나 설치 없이 바로 사용 가능한, 기존의 틀을 깨는 | Out-of-box sofrtware, also called off-the-shelf, refers to software that is ready-made for the general public. | Off the shelf라고도 불리는 Out of the box 소프트웨어는 대중이 바로 사용할 수 있는(ready-made, 기성품의) 소프트웨어를 의미합니다. |  |
+| Opinionated | 체계와 시스템을 강하게 갖춘, 독선적인 |  |  |  |
+| Parse | (문장이나 코드를 문법에 따라) 분석하다, (기준에 따라 데이터를) 가공하여 해석하다 |  |  |  |
+| Render | 데이터와 UI 컴포넌트를 모아 웹페이지를 만들다, 2D/3D 그래픽 요소를 그리다 |  |  |  |
+| Trim | 좌우 공백을 제거하다 |  |  |  |
+| Truncate | 짧게 하다, 잘라내다 |  |  |  |
+| Vulnerability | 취약점 |  |  |  |
+| Yield | (결과를) 산줄하다, 반환하다, (다른 객체에게) 양도하다 | The state will yield the old value in this case.
+ | 이러한 경우에 상태는 이전의 값을 반환할 것입니다. |  |
