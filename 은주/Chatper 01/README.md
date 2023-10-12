@@ -74,3 +74,6 @@
             
             const result = factorial(5);
             ```
+- `Execute (Run)` a loop body : 반복문의 내용을 수행하다
+- `Iterate over` (through) an array :
+배열을 돌면서 반복하다
