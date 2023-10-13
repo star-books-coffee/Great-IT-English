@@ -84,3 +84,48 @@ chore : update npm dependencies to latest version (기타 : npm 의존성 최신
 - Squash the last 3 commits : 최근 3개의 커밋을 합치다
 - Revert a pull request : 풀 리퀘스트를 되돌리다 (이전 상태로 되돌리가)
 - Rebase onto another branch : 다른 브랜치로 리베이스(base를 재설정하여 커밋 재적용)하다
+
+## 2. 외국인이 들어도 감탄할 코드 설명법
+
+### Declare (a variable / function / class) : (변수 / 함수 / 클래스)를 선언하다
+
+- Declare a pure function
+    
+    > 순수 함수 : 동일한 인자에 대해 항상 동일한 값 반환
+    > 
+- Declare a dictionary in Python
+
+### Assign a value to a variable : 변수에 값을 할당하다
+
+- Assign 5 to an integer variable
+- Assign “Hi” to string variable
+
+### Name a class : 클래스의 이름을 짓다
+
+- Name a variable
+- Rename a global constant
+
+### Pass an argument to a function : 함수에 인자를 전달하다
+
+- Pass arguments to a recursive function
+    
+    재귀 함수에 인자들을 전달하다
+    
+- By default, JavaScript functions do not perform type checking on the passed argument
+
+### Return the result of execution : 실행 결과를 반환하다
+
+- Function return
+    
+    함수 반환 (Return이 명사로 사용)
+    
+
+### Call a function : 함수를 호출하다
+
+- Function call
+    
+    함수 호출
+    
+- Asynchronous call
+    
+    비동기 호출
