@@ -75,5 +75,12 @@
             const result = factorial(5);
             ```
 - `Execute (Run)` a loop body : 반복문의 내용을 수행하다
-- `Iterate over` (through) an array :
-배열을 돌면서 반복하다
+- `Iterate over` (through) an array : 배열을 돌면서 반복하다
+- The conditional statement `evaluates to true` : 조건문이 참으로 평가되다
+- `Jump out of` a loop : 반복문에서 빠져나오다
+    - break
+- `Jump over` an iteration : 반복을 한 번 건너뛰다
+    - continue
+- `Increment / Decrement` the variable `by 2` : 변수를 2만큼 증가시키다 / 감소시키다
+More
+    - Increment the variable i in the for loop by 1 : for 반복문의 i를 1 만큼 증가시키다
