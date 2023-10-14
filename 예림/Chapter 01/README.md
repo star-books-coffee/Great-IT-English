@@ -129,3 +129,39 @@ chore : update npm dependencies to latest version (기타 : npm 의존성 최신
 - Asynchronous call
     
     비동기 호출
+### Inherit data from a parent object : 부모 객체로부터 데이터를 상속 받다
+
+- A child class inherited from its parent class
+    
+    부모 클래스로부터 상속 받은 자식 클래스
+    
+
+### Execute(Run) a loop body : 반복문의 내용을 수행하다
+
+- Execute a block of code for a certain number of times
+
+### Iterate over (through) an array : 배열을 돌면서 반복하다
+
+### Jump out of a loop : 반복문에서 빠져나오다
+
+### Jump over an iteration : 반복을 한 번 건너뛰다
+
+- You can jump over one iteratioin with the continue statement.
+
+### Fetch data through the API : API로 데이터를 가져오다
+
+- Retrieve data from the REST API
+    
+    REST API로 데이터를 검색하다
+    
+- Get data through Graphql queries
+    
+    Graphql 쿼리로 데이터를 가져오다
+    
+
+### Send data to the API server : API 서버로 데이터를 보내다
+
+- Send a request to an API endpoint
+- Post data to a backend server
+    
+    백엔드 서버로 데이터를 보내다
