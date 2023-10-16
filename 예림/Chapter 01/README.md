@@ -165,3 +165,22 @@ chore : update npm dependencies to latest version (기타 : npm 의존성 최신
 - Post data to a backend server
     
     백엔드 서버로 데이터를 보내다
+
+## 3. 인생은 실전, 개발 현장 속에서 배우는 실전 영어
+
+- 오픈소스 프로젝트의 실제 풀 리퀘스트를 바탕으로 기술 토론 현장의 주요 영어 표현과 단어를 분석해보자.
+
+### Repository Example 1
+
+```
+vinta/awesome-python
+Pull Request #607 - Add hug to REST frameworks list
+```
+
+
+- 본 오픈 소스 리포지토리는 파이썬 개발과 관련해 추천자료들을 큐레이션함.
+- 본 풀 리퀘스트는 Hug라는 프레임워크를 추가하려는 사람과 Hug를 추가하는 것에 회의적인 사람간의 논쟁⚡️을 포함하고 있음.
+- 생생한 기술 현장 토론으로 들어가보시죠.
+1. Hug is the fastest growing framework for  `microservices` `on Python3` and `as such` clearly deserves placement on this list.
+    
+    Hug는 파이썬 3을 기반으로 가장 빠르게 성장하는 프레임워크이며, 그러한 이유로 리스트에 포함되어야 합니다.
