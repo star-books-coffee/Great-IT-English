@@ -84,3 +84,20 @@
 - `Increment / Decrement` the variable `by 2` : 변수를 2만큼 증가시키다 / 감소시키다
 More
     - Increment the variable i in the for loop by 1 : for 반복문의 i를 1 만큼 증가시키다
+
+### 3. 인생은 실전, 개발 현장 속에서 배우는 실전 영어
+
+- Hug is the fastest growing framework for microservices on Python3 and `as such` clearly `deserves placement on` this list.
+    - As such : "그러한 이유로, 그 자체로(in itself)”
+    - 그 자체로 리스트에 배치(placement)될 자격이 있다(deserve)
+- **(I’m)** `Not sure` if this is the right place but I would go for a Services or Microservices section.
+    - 캐주얼한 커뮤니케이션에서는 주어 및 형용사와 함께 사용되는 be 동사가 종종 생략됨
+- This is where I'd ideally want to place it, and `as time goes on` I believe there will be more and more libraries that would `aptly` fit in this category.
+    - As time goes on (by) : 시간이 지남에 따라
+    - aptly : 적절하게 (properly)
+        - aptly fit : 적절하게 맞는
+- `With all due respect`, do some basic research before making such `blatantly` false statements.
+    - With all due respect : 외람되지만, 이런 말씀드려서 죄송하지만
+    - blantantly : 노골적으로, 직설적으로
+- It allows your APIs to be `exposed` over the command line as well as over HTTP
+    - Expose : 드러내다, 노출되다와 같이 사용되지만 IT 업계에서는 무언가를 공개해서 사용 가능하게 하다(make available) 라는 의미로 사용
