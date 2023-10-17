@@ -101,3 +101,11 @@ More
     - blantantly : 노골적으로, 직설적으로
 - It allows your APIs to be `exposed` over the command line as well as over HTTP
     - Expose : 드러내다, 노출되다와 같이 사용되지만 IT 업계에서는 무언가를 공개해서 사용 가능하게 하다(make available) 라는 의미로 사용
+- Workflow jobs run on self-hosted runners `on` AWS Graviton instances
+    - on : AWS, Azure, GCP와 같은 **클라우드에 업로드된 인스턴스(Instance, 가상 서버)** 앞에서 사용
+- PR `on` master branch
+    - Pull request와 Commit은 Branch 위에 (on) 있다고 표현
+    - 반면, Branch는 Repository 안에(in) 있다고 표현
+        - How many branches do we have `in` this repository?
+- `Nightly` on master branch at 8am UTC
+    - Nightly build : 일일 빌드(주기적인 테스트를 위해 매일 생성하는 빌드)
