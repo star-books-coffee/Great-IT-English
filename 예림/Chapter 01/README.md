@@ -184,3 +184,11 @@ Pull Request #607 - Add hug to REST frameworks list
 1. Hug is the fastest growing framework for  `microservices` `on Python3` and `as such` clearly deserves placement on this list.
     
     Hug는 파이썬 3을 기반으로 가장 빠르게 성장하는 프레임워크이며, 그러한 이유로 리스트에 포함되어야 합니다.
+2. There are `duplicate` lines.
+    
+    중복된 라인이 있습니다.
+    
+3. Not sure if this is the right place but I would go for a Services or Microservices section. Hug seems like it’d fit better under such a heading.
+    
+    여기가 맞는지 모르겠지만, 저는 Services 또는 Microservices 섹션이 좋은 것 같습니다. Hug는
+    이러한 섹션 제목이 적합한 것 같습니다.
