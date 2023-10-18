@@ -109,3 +109,8 @@ More
         - How many branches do we have `in` this repository?
 - `Nightly` on master branch at 8am UTC
     - Nightly build : 일일 빌드(주기적인 테스트를 위해 매일 생성하는 빌드)
+- `Revision` : 수정, 개정
+- What led you to use these files for the tests (our [CONTRIBUTING.md](http://CONTRIBUTING.md) perhaps)?
+    - 무엇이 너가 이 파일들을 사용하도록 이끌었니? == 어떻게 이 파일들을 사용하게 되었니?
+- Can we work next on upgrading to a different setup, after we get it working in its current `iteration`?
+    - iteration : 개발 사이클 1번 (a single development cycle), 반복
