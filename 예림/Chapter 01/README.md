@@ -177,7 +177,7 @@ vinta/awesome-python
 Pull Request #607 - Add hug to REST frameworks list
 ```
 
-
+#### Example 1
 - 본 오픈 소스 리포지토리는 파이썬 개발과 관련해 추천자료들을 큐레이션함.
 - 본 풀 리퀘스트는 Hug라는 프레임워크를 추가하려는 사람과 Hug를 추가하는 것에 회의적인 사람간의 논쟁⚡️을 포함하고 있음.
 - 생생한 기술 현장 토론으로 들어가보시죠.
@@ -192,3 +192,44 @@ Pull Request #607 - Add hug to REST frameworks list
     
     여기가 맞는지 모르겠지만, 저는 Services 또는 Microservices 섹션이 좋은 것 같습니다. Hug는
     이러한 섹션 제목이 적합한 것 같습니다.
+
+
+**주요 표현 분석**
+
+- `Microservice` : 1 마이크로서비스(Microservice)는 애플리케이션을 작은 독립적인 서비스로 나누어 구조화 하고 개발하는 아키텍처 스타일
+    - ex) 전자상거래 서비스에 마이크로서비스 아키텍처 적용 → UI, 인증 서버, 결제 처리 서버, 데이터 처리 서버, 정적 콘텐츠 저장소 등 다수의 독립적인 서비스로 나누어 설계하고 개발
+    - 반대로 모든 서비스를 일체화된 형태로 설계하고 개발하는 것 : `모놀리식(Monolithic)`아키텍처
+- "Program written `in` Python(파이썬으로 작성된 프로그램)"과 같이 프로그래밍 언어로 코드를 작성하는 경우에는 전치사 in을 사용하지만, 본문은 Python3를 기반으로(based on) 작성된 프로그램이라는 맥락에서 전치사 `on` 사용
+- `As such` : 그러한 이유로, 그 자체로(in itself)
+- 코드의 특정 부분을 언급할 때는 주로 라인(Line, 행)과 칼럼(Column, 열)을 활용
+- **I’m이 생략** : 이와 같이 인터넷 상의 캐주얼한 커뮤니케이션에서는 주어 및 형용사와 함께 사용되는 be 동사가 종종 생략
+
+#### Example 2
+
+1. +1 for the Microservices section. This is where I'd ideally want to place it, and 1 as time goes on ****I believe there will be more and more libraries that would ****`aptly` ****fit in this
+category.
+    
+    Microservices 섹션에 추가하는 것에 찬성합니다. 이 섹션은 제가 이상적으로 (Hug를) 배치하고 싶은
+    곳이며, 시간이 지남에 따라 이 카테고리에 적합한 라이브러리가 점점 더 많아질 것입니다.
+    
+2. Just another framework like Flask.
+    
+    (Hug는) 그냥 또 하나의 플라스크 같은 프레임워크입니다. 흥
+    
+3. @User4 3 `With all due respect`**,** do some basic research before making such `blatantly` ****false statements.
+    
+    @User4 이런 말씀드려서 죄송하지만, 그런 노골적인 거짓 진술을 하기 전에 기본적인 조사를
+    하시기 바랍니다. 
+    
+
+**주요 표현 분석**
+
+- `Aptly` = Properly(적절하게)
+- `With all due respect` : 직역 : 모든 존경심을 담아 / 의역 : 외람되지만, 이런 말씀드려서 죄송하지만
+- `Blatantly` : 노골적으로 / 조금 더 순화된 표현 : `bluntly`(직설적으로)
+
+#### Example 3
+
+1. So why in one sentence is it not flask? Just because it requires a command line tool to run?
+    
+    😡 그렇다면 한 문장으로 Hug는 왜 플라스크 같은 프레임워크가 아닌가요? 실행하려면 커맨드 라인 도구가 필요하기 때문인가요?
