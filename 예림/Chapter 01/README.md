@@ -233,3 +233,10 @@ category.
 1. So why in one sentence is it not flask? Just because it requires a command line tool to run?
     
     😡 그렇다면 한 문장으로 Hug는 왜 플라스크 같은 프레임워크가 아닌가요? 실행하려면 커맨드 라인 도구가 필요하기 때문인가요?
+2. Here's my short answer: hug does not require a command line tool to run. It 1 `allows`your APIs to be `exposed` over the command line 3 `as well as` over HTTP. Flask is a
+framework for making websites / HTTP applications. Hug is a framework for building
+general APIs / microservices on Python that can be exposed to any interface (HTTP, CLI,
+Locally, asyncio) with automatic documentation and validation built in.
+    
+    짧게 답변 드리겠습니다. hug를 실행하기 위해 커맨드 라인이 필요하지 않습니다. Hug는 HTTP뿐만 아니라 커맨드 라인을 통해 API를 사용하도록 할 수 있습니다. Flaskb 웹사이트 / HTTP 애플리케이션을 만들기 위한 프레임워크입니다. Hug는 Python을 기반으로 모든 인터페이스(HTTP,
+    CLI, Locally, asyncio)에 사용될 수 있는 일반적인 API와 마이크로서비스를 만드는 프레임워크로, 자동화된 문서화 및 검증이 내장되어 있습니다.
