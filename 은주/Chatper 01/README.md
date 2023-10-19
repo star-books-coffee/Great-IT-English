@@ -114,3 +114,5 @@ More
     - 무엇이 너가 이 파일들을 사용하도록 이끌었니? == 어떻게 이 파일들을 사용하게 되었니?
 - Can we work next on upgrading to a different setup, after we get it working in its current `iteration`?
     - iteration : 개발 사이클 1번 (a single development cycle), 반복
+- We were planning to deprecate the rest, especially pip_new.sh which is `inscrutable`
+    - inscrutable : 이해하기 어려운
