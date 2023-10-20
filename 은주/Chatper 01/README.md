@@ -116,3 +116,7 @@ More
     - iteration : 개발 사이클 1번 (a single development cycle), 반복
 - We were planning to deprecate the rest, especially pip_new.sh which is `inscrutable`
     - inscrutable : 이해하기 어려운
+- `LGTM` : "Looks Good To Me"의 약어로, 문제 없어 보인다라는 뜻
+- `Explanatory` : 설명하는, 설명적인
+- I think the `intent` to clarify here is good but I'd maybe add the logic to line 243 **and not what is essentially a custom toString for error messages in this file.**
+    - 여기에서 이를 명확히 하려는 **`의도`**가 좋다고 생각하지만, 저라면 본질적으로 **커스텀 toString을 위한 이 파일의 오류 메시지가 아닌, 243** 라인에 로직을 추가할 것 같습니다.
