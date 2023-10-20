@@ -181,67 +181,85 @@ Pull Request #607 - Add hug to REST frameworks list
 - 본 오픈 소스 리포지토리는 파이썬 개발과 관련해 추천자료들을 큐레이션함.
 - 본 풀 리퀘스트는 Hug라는 프레임워크를 추가하려는 사람과 Hug를 추가하는 것에 회의적인 사람간의 논쟁⚡️을 포함하고 있음.
 - 생생한 기술 현장 토론으로 들어가보시죠.
-1. Hug is the fastest growing framework for  `microservices` `on Python3` and `as such` clearly deserves placement on this list.
+
+**Example 1**
+
+- 👤 User 1 코멘트
+    
+    Hug is the fastest growing framework for  `microservices` `on Python3` and `as such` clearly deserves placement on this list.
     
     Hug는 파이썬 3을 기반으로 가장 빠르게 성장하는 프레임워크이며, 그러한 이유로 리스트에 포함되어야 합니다.
-2. There are `duplicate` lines.
+    
+- 👤 User 2 코멘트
+    
+    There are `duplicate` lines.
     
     중복된 라인이 있습니다.
     
-3. Not sure if this is the right place but I would go for a Services or Microservices section. Hug seems like it’d fit better under such a heading.
+- 👤 User 3 코멘트
+    
+    `Not sure` if this is the right place but I would go for a Services or Microservices section. Hug seems like it’d fit better under such a heading.
     
     여기가 맞는지 모르겠지만, 저는 Services 또는 Microservices 섹션이 좋은 것 같습니다. Hug는
     이러한 섹션 제목이 적합한 것 같습니다.
+    
+- **주요 표현 분석**
+    - `Microservice` : 1 마이크로서비스(Microservice)는 애플리케이션을 작은 독립적인 서비스로 나누어 구조화 하고 개발하는 아키텍처 스타일
+        - ex) 전자상거래 서비스에 마이크로서비스 아키텍처 적용 → UI, 인증 서버, 결제 처리 서버, 데이터 처리 서버, 정적 콘텐츠 저장소 등 다수의 독립적인 서비스로 나누어 설계하고 개발
+        - 반대로 모든 서비스를 일체화된 형태로 설계하고 개발하는 것 : `모놀리식(Monolithic)`아키텍처
+    - "Program written `in` Python(파이썬으로 작성된 프로그램)"과 같이 프로그래밍 언어로 코드를 작성하는 경우에는 전치사 in을 사용하지만, 본문은 Python3를 기반으로(based on) 작성된 프로그램이라는 맥락에서 전치사 `on` 사용
+    - `As such` : 그러한 이유로, 그 자체로(in itself)
+    - 코드의 특정 부분을 언급할 때는 주로 라인(Line, 행)과 칼럼(Column, 열)을 활용
+    - **I’m이 생략** : 이와 같이 인터넷 상의 캐주얼한 커뮤니케이션에서는 주어 및 형용사와 함께 사용되는 be 동사가 종종 생략
 
+**Example 2**
 
-**주요 표현 분석**
-
-- `Microservice` : 1 마이크로서비스(Microservice)는 애플리케이션을 작은 독립적인 서비스로 나누어 구조화 하고 개발하는 아키텍처 스타일
-    - ex) 전자상거래 서비스에 마이크로서비스 아키텍처 적용 → UI, 인증 서버, 결제 처리 서버, 데이터 처리 서버, 정적 콘텐츠 저장소 등 다수의 독립적인 서비스로 나누어 설계하고 개발
-    - 반대로 모든 서비스를 일체화된 형태로 설계하고 개발하는 것 : `모놀리식(Monolithic)`아키텍처
-- "Program written `in` Python(파이썬으로 작성된 프로그램)"과 같이 프로그래밍 언어로 코드를 작성하는 경우에는 전치사 in을 사용하지만, 본문은 Python3를 기반으로(based on) 작성된 프로그램이라는 맥락에서 전치사 `on` 사용
-- `As such` : 그러한 이유로, 그 자체로(in itself)
-- 코드의 특정 부분을 언급할 때는 주로 라인(Line, 행)과 칼럼(Column, 열)을 활용
-- **I’m이 생략** : 이와 같이 인터넷 상의 캐주얼한 커뮤니케이션에서는 주어 및 형용사와 함께 사용되는 be 동사가 종종 생략
-
-#### Example 2
-
-1. +1 for the Microservices section. This is where I'd ideally want to place it, and 1 as time goes on ****I believe there will be more and more libraries that would ****`aptly` ****fit in this
-category.
+- 👤 User 1 코멘트
+    
+    +1 for the Microservices section. This is where I'd ideally want to place it, and 1 as time goes on ****I believe there will be more and more libraries that would ****`aptly` ****fit in this
+    category.
     
     Microservices 섹션에 추가하는 것에 찬성합니다. 이 섹션은 제가 이상적으로 (Hug를) 배치하고 싶은
     곳이며, 시간이 지남에 따라 이 카테고리에 적합한 라이브러리가 점점 더 많아질 것입니다.
     
-2. Just another framework like Flask.
+- 👤 User 4 코멘트
+    
+    Just another framework like Flask.
     
     (Hug는) 그냥 또 하나의 플라스크 같은 프레임워크입니다. 흥
     
-3. @User4 3 `With all due respect`**,** do some basic research before making such `blatantly` ****false statements.
+- 👤 User 1 코멘트
+    
+    @User4 3 `With all due respect`**,** do some basic research before making such `blatantly` ****false statements.
     
     @User4 이런 말씀드려서 죄송하지만, 그런 노골적인 거짓 진술을 하기 전에 기본적인 조사를
     하시기 바랍니다. 
     
+- **주요 표현 분석**
+    - `Aptly` = Properly(적절하게)
+    - `With all due respect` : 직역 : 모든 존경심을 담아 / 의역 : 외람되지만, 이런 말씀드려서 죄송하지만
+    - `Blatantly` : 노골적으로 / 조금 더 순화된 표현 : `bluntly`(직설적으로)
 
-**주요 표현 분석**
+**Example 3**
 
-- `Aptly` = Properly(적절하게)
-- `With all due respect` : 직역 : 모든 존경심을 담아 / 의역 : 외람되지만, 이런 말씀드려서 죄송하지만
-- `Blatantly` : 노골적으로 / 조금 더 순화된 표현 : `bluntly`(직설적으로)
-
-#### Example 3
-
-1. So why in one sentence is it not flask? Just because it requires a command line tool to run?
+- 👤 User 4 코멘트
+    
+    So why in one sentence is it not flask? Just because it requires a command line tool to run?
     
     😡 그렇다면 한 문장으로 Hug는 왜 플라스크 같은 프레임워크가 아닌가요? 실행하려면 커맨드 라인 도구가 필요하기 때문인가요?
-2. Here's my short answer: hug does not require a command line tool to run. It 1 `allows`your APIs to be `exposed` over the command line 3 `as well as` over HTTP. Flask is a
-framework for making websites / HTTP applications. Hug is a framework for building
-general APIs / microservices on Python that can be exposed to any interface (HTTP, CLI,
-Locally, asyncio) with automatic documentation and validation built in.
+    
+- 👤 User 1 코멘트
+    
+    Here's my short answer: hug does not require a command line tool to run. It 1 `allows` ****your APIs to be `exposed` ****over the command line 3 `as well as` ****over HTTP. Flask is a
+    framework for making websites / HTTP applications. Hug is a framework for building
+    general APIs / microservices on Python that can be exposed to any interface (HTTP, CLI,
+    Locally, asyncio) with automatic documentation and validation built in.
     
     짧게 답변 드리겠습니다. hug를 실행하기 위해 커맨드 라인이 필요하지 않습니다. Hug는 HTTP뿐만 아니라 커맨드 라인을 통해 API를 사용하도록 할 수 있습니다. Flaskb 웹사이트 / HTTP 애플리케이션을 만들기 위한 프레임워크입니다. Hug는 Python을 기반으로 모든 인터페이스(HTTP,
     CLI, Locally, asyncio)에 사용될 수 있는 일반적인 API와 마이크로서비스를 만드는 프레임워크로, 자동화된 문서화 및 검증이 내장되어 있습니다.
-
-- `Expose` : IT 엽계에서는 “사용가능하게 하다(make available)”라는 의미로 사용
+    
+- **주요 표현 분석**
+    - `Expose` : IT 엽계에서는 “사용가능하게 하다(make available)”라는 의미로 사용
 
 ### Repository Example 2
 
@@ -272,22 +290,22 @@ Locally, asyncio) with automatic documentation and validation built in.
         
         …
         
-- 👤 User 1 코멘트 설명
-    1. 일반적으로 풀 리퀘스트의 첫 코멘트는 **코드 변경 사항**과 **변경 이유**를 요약함. 위 예시에서는 어떤 변경 사항을 제안하는지 중요 항목을 bullet point로 요약
-    2. `Self-hosted` runners : 여러 단어를 합쳐 새로운 의미를 만들고 명사를 수식하는 경우, 각 단어를 하이픈(-)으로 붙여쓴다.
+- **주요 표현 분석**
+    - 일반적으로 풀 리퀘스트의 첫 코멘트는 **코드 변경 사항**과 **변경 이유**를 요약함. 위 예시에서는 어떤 변경 사항을 제안하는지 중요 항목을 bullet point로 요약
+    - `Self-hosted` runners : 여러 단어를 합쳐 새로운 의미를 만들고 명사를 수식하는 경우, 각 단어를 하이픈(-)으로 붙여쓴다.
         
         > **복합 형용사** : 두 개 이상의 단어가 모여 새로운 의미로 사용되는 형용사
         > 
         
         > **hyphenate** : 하이픈으로 단어를 붙여 쓰는 것
         > 
-    3. AWS와 같은 클라우드에 업로드된 인스턴스 앞에는 전치사 `on` 사용
+    - AWS와 같은 클라우드에 업로드된 인스턴스 앞에는 전치사 `on` 사용
         
         > BUT 문장 내 전치사는 문맥에 따라 달라질 수 있음. Add more storage to the AWS EC2와 같은 표현도 있음.
         > 
-    4. **Pull request와 Commit은 Branch 위에 (on) 있다고 표현함.**
+    - **Pull request와 Commit은 Branch 위에 (on) 있다고 표현함.**
         
-        반면, Branch는 Repository 안에(in) 있다고 표현 함.
+        반면, Branch는 Repository 안에(in) 있다고 표현함.
         
 
 <aside>
