@@ -240,3 +240,57 @@ Locally, asyncio) with automatic documentation and validation built in.
     
     짧게 답변 드리겠습니다. hug를 실행하기 위해 커맨드 라인이 필요하지 않습니다. Hug는 HTTP뿐만 아니라 커맨드 라인을 통해 API를 사용하도록 할 수 있습니다. Flaskb 웹사이트 / HTTP 애플리케이션을 만들기 위한 프레임워크입니다. Hug는 Python을 기반으로 모든 인터페이스(HTTP,
     CLI, Locally, asyncio)에 사용될 수 있는 일반적인 API와 마이크로서비스를 만드는 프레임워크로, 자동화된 문서화 및 검증이 내장되어 있습니다.
+
+- `Expose` : IT 엽계에서는 “사용가능하게 하다(make available)”라는 의미로 사용
+
+### Repository Example 2
+
+> **tensorflow/tensorflow**
+> 
+> 
+> Pull Request #56097 - Add CI/CD for ARM64 using GitHub Actions
+> 
+- 인기 오픈소스 머신러닝 플랫폼, 텐서플로우의 풀 리퀘스트
+- Github Action : 깃허브에서 제공하는 CI/CD 플랫폼
+- 일반적으로 풀 리퀘스트 제목은 커밋 메시지처럼 동사 원형을 활용한 **명령적 어조**로 간**결하게** 작성
+
+**Example 1**
+
+- 👤 User 1 코멘트
+    - `Added Github workflows` to build, test and upload ARM64 pip wheels for Python versions 3.7, 3.8, 3.9 and 3.10
+    - Workflow jobs run on `self-hosted` runners `on` AWS Graviton instances.
+        
+        워크플로우 작업은 AWS Graviton 인스턴스의 자체 호스팅 러너에서 실행됩니다.
+        
+    - Cl workflow uploads generated pip wheels to GitHub Actions and is triggered for:
+        - PR 4 `on` master branch
+        - PR on branch name starting with r2.
+    - CD workflow uploads 어쩌구 생략
+    - Following 18 tests currently failed and are skipped :
+        
+        tensorflow/python: nn_grad_test_cpu 
+        
+        …
+        
+- 👤 User 1 코멘트 설명
+    1. 일반적으로 풀 리퀘스트의 첫 코멘트는 **코드 변경 사항**과 **변경 이유**를 요약함. 위 예시에서는 어떤 변경 사항을 제안하는지 중요 항목을 bullet point로 요약
+    2. `Self-hosted` runners : 여러 단어를 합쳐 새로운 의미를 만들고 명사를 수식하는 경우, 각 단어를 하이픈(-)으로 붙여쓴다.
+        
+        > **복합 형용사** : 두 개 이상의 단어가 모여 새로운 의미로 사용되는 형용사
+        > 
+        
+        > **hyphenate** : 하이픈으로 단어를 붙여 쓰는 것
+        > 
+    3. AWS와 같은 클라우드에 업로드된 인스턴스 앞에는 전치사 `on` 사용
+        
+        > BUT 문장 내 전치사는 문맥에 따라 달라질 수 있음. Add more storage to the AWS EC2와 같은 표현도 있음.
+        > 
+    4. **Pull request와 Commit은 Branch 위에 (on) 있다고 표현함.**
+        
+        반면, Branch는 Repository 안에(in) 있다고 표현 함.
+        
+
+<aside>
+📌 본문의 Add, Build, Test, Generate, Upload, Run, Trigger(작동시키다), Fail, Skip은 매우 자주 등장하는 IT 주요 동사들!
+
+</aside>
