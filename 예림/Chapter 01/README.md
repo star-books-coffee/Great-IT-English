@@ -312,3 +312,69 @@ Pull Request #607 - Add hug to REST frameworks list
 📌 본문의 Add, Build, Test, Generate, Upload, Run, Trigger(작동시키다), Fail, Skip은 매우 자주 등장하는 IT 주요 동사들!
 
 </aside>
+
+## 2. 오픈소스 커뮤니티 “인싸”로 도약하는 인터넷 영어 표현
+
+### LGTM(Look Good To Me)
+
+- Pull Request 코드 리뷰에서 코드에 별다른 문제가 없을 때 사용
+
+> `LGTM`, Approved this PR.
+> 
+
+### TL;DR (Too Long; Didn’t Read)
+
+- 너무 길어서 읽지 않는다
+- 주로 기술 블로그나 문서에서 자세한 설명 시작 전 요약된 정보 소개할 때 사용
+
+> `TL;DR` : the new build system will be `implemented` next week.
+> 
+
+### SSIA (Subject Says It All)
+
+- 제곧내
+
+> `SSIA`. Let me know what you think.
+> 
+
+### TBD (To Be Determined)
+
+- 아직 결정되지 않는 내용이 있어 나중에 결정해야 함.
+
+> Set up environment variables (TBD)
+> 
+> 
+> 환경 변수 설정 (추후 다시 논의)
+> 
+
+### RFC (Request For Comment)
+
+- 의견 요청
+
+> (RFC) Integrating the new architecture
+> 
+
+### AFAIK (As Far As I Know)
+
+- 내가 아는 한
+
+### TBH (To Be Honest)
+
+- 솔직히
+
+### WIP (Work In Progress)
+
+- 진행 중, 진행 중인 작업
+
+> (WIP) Add T&C
+> 
+
+### Noob
+
+- 입문자(Newbie)
+
+> I’m noob here. Please help troubleshoot this Issue.
+> 
+> 
+> 여기 처음 왔습니다. 이슈 해결을 도와주세요.
+>
