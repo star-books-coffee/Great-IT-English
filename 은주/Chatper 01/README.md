@@ -120,3 +120,28 @@ More
 - `Explanatory` : 설명하는, 설명적인
 - I think the `intent` to clarify here is good but I'd maybe add the logic to line 243 **and not what is essentially a custom toString for error messages in this file.**
     - 여기에서 이를 명확히 하려는 **`의도`**가 좋다고 생각하지만, 저라면 본질적으로 **커스텀 toString을 위한 이 파일의 오류 메시지가 아닌, 243** 라인에 로직을 추가할 것 같습니다.
+- prominent : 눈에 띄는, 두드러진
+- You might be `missing out on` errors
+    - Miss out on : (기회나 상황을) 놓치다
+- However, lots of other errors that throw in React are designed to be `preceded` by a console. error
+    - precede : ~에 앞서다, 선행하다
+- You would be shown a `misleading` late error
+    - misleading : "오해의 소지가 있는
+
+### 4. 오픈소스 커뮤니티 “인싸” 로 도약하는 인터넷 영어 표현
+
+- `LGTM (looks good to me)` : PR 코드 리뷰에서 별다른 문제가 없을 때 사용
+- `TL；DR (Too Long; Didn't Read)` : 너무 길어서 읽지 않는다라는 뜻으로, 주로 기술 블로그나 문서에서 자세한 설명을 시작하기 전에 요약된 정보를 소개할 때 사용
+- `SSIA (Subject Says It All)` : "제목이 모든 것을 말한다” (ㅈㄱㄴ),  제목 외에 별도의 설명이 필요 없는 경우
+- `TBD (To Be Determined)` : 아직 결정되지 않은 내용이 있어, 나중에 결정해야 함을 의미
+- `RFC (Request For Comments)` : 풀 리퀘스트와 같이 새로운 것을 제안하거나 포럼에서 무언가를 제안할 때, 의견을 요청하기 위해 사용
+- `In My Honest Opinion` : "제 솔직한 생각으로"
+- `In My Humble Opinion` : 겸손한 느낌을 담은 " 제 소견으로는"
+- `AFAIK (As Far As I Know)` : "내가 아는 한", 절대적으로 확실하지는 않지만 알고 있는 정보를 말할 때 사용
+- `FYI (For Your Information)` : ''참고로"라는 의미로 다른 사람과 정보를 공유할 때 사용
+ex) FYI, this API is deprecated. / 참고로, 이 API는 더 이상 권장되지 않습니다.
+- `TIA (Thanks In Advance)` : "미리 감사합니다"라는 뜻으로 다른 사람에게 도움을 요청할 때 사용
+- `AFK (Away From Keyboard)` : "키보드에서 떨어진"이라는 뜻으로 자리를 비우거나 휴가 중일 때 사용
+    - 휴가 중인 경우는 OOO(Out Of Office)라는 약어도 자주 사용
+- `Noob` : "입문자 (Newbie)", 새로 참여하는 오픈소스 커뮤니티 또는 프로젝트에 자신을 소개할 때 사용
+- `WIP (Work In Progress)` : 진행 중, 진행 중인 작업
