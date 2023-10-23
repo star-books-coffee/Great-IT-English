@@ -145,3 +145,18 @@ ex) FYI, this API is deprecated. / 참고로, 이 API는 더 이상 권장되지
     - 휴가 중인 경우는 OOO(Out Of Office)라는 약어도 자주 사용
 - `Noob` : "입문자 (Newbie)", 새로 참여하는 오픈소스 커뮤니티 또는 프로젝트에 자신을 소개할 때 사용
 - `WIP (Work In Progress)` : 진행 중, 진행 중인 작업
+
+### 5. 퇴근 시간을 앞당기는 검색 노하우 4가지
+
+1. 핵심 키워드를 “ “ 로 묶기
+    - "Express, Django"을 **키워드로 반드시 포함**하려면 Whk:h is the best backend framework among "Express", "Django" 과 같이 따음표로 핵심 키워드를 감싸주면 됨
+    - "Express, Django, and Laraval"과 같이 **여러 단어를 그룹화하여 쌍따옴표로 묶을 경우** "Express, Django, and Laravel" **그룹 키워드와 정확하게 일치하는** 자료를 찾을 수 있음
+        - 즉, "Laravel, Express, and Django"라는 콘텐츠를 포함한 웹페이지는 검색되지 않음
+2. 특정 웹사이트에서만 검색 결과 가져오기
+    - 특정 웹페이지의 검색 결과만을 확인하려면 검색어에 "**site:도메인**" 키워드 추가
+        - 스택오버플로우에서 C++의 메모리 유출 문제 해결 방법을 검색하려면
+        "how to fix memory leaks in C++ `site：[stackoverflow.com](http://stackoverflow.com/)`"와 같이 검색
+    - 검색어 뒤에 "**filetype：확장자**"를 추가하면 해당 확장자의 파일 검색 가능
+        - Python Cheat Sheet filetype:pdf 로 검색하면, Python Cheat Sheet PDF 찾을 수 있음
+    - 검색 키워드에 ***는 와일드카드**(Wildcard, 다른 단어나 문장으로 대체될 수 있는 부분) 역할
+    - 마이너스(-) 연산자는 **특정 단어를 뺀 검색 결과**를, 플러스(+) 연산자는 **특정 단어를 포함한 검색 결과**
