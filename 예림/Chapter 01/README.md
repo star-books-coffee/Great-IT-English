@@ -385,3 +385,24 @@ Pull Request #607 - Add hug to REST frameworks list
 ### 1. 핵심 키워드를 “ ”로 묶기
 
 - 해당 키워드를 반드시 포함하는 웹 문서만 검색 가능
+
+### 2. 특정 웹사이트에서만 검색 결과 가져오기
+
+> 에러 메시지를 검색하고 이슈를 해결할 때 : Stack Overflow에 검색
+> 
+
+> React의 소스코드를 살펴볼 때 : React Github Repository 확인
+> 
+- `“site : 도메인”` 키워드 추가하기
+    - ex) 스택오버플로우에서 C++ 메모리 유출 문제 해결 방법 검색
+        
+        “how to fix memory leaks in C++ `site:stackoverflow.com`”
+        
+    - `site:github.com`과 같이 www 같은 서브 도메인을 명시하지 않으면 [docs.github.com](http://docs.github.com) / www.github.com과 같은 서브 도메인이 모두 검색됨
+- 참고사항
+    
+    1) 검색어 뒤에 `filetype:확장자`를 추가하면 해당 확장자의 파일 검색 가능
+    
+    2) 검색 키워드에 `*`는 와일드 카드 역할 (ex. What a * day)
+    
+    3) `-`,`+` 연산자 : 특정 검색어 빼거나 포함한 검색 결과 (ex. “Git hosting solutions -github +gitlab)
