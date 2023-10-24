@@ -160,3 +160,8 @@ ex) FYI, this API is deprecated. / 참고로, 이 API는 더 이상 권장되지
         - Python Cheat Sheet filetype:pdf 로 검색하면, Python Cheat Sheet PDF 찾을 수 있음
     - 검색 키워드에 ***는 와일드카드**(Wildcard, 다른 단어나 문장으로 대체될 수 있는 부분) 역할
     - 마이너스(-) 연산자는 **특정 단어를 뺀 검색 결과**를, 플러스(+) 연산자는 **특정 단어를 포함한 검색 결과**
+3. 중요 단어만 포함해서, 단순하게
+    - 기술 문서를 검색할 때도 장황한 문장보다는 핵심 키워드로만으로 검색하는 것이 훨씬 효과적
+4. 웹페이지가 사용할만한 키워드로 검색하기
+    - 일상적인 표현으로 구성된 키워드보다는 웹페이지가 포함할 만한 단어로 키워드를 구성하기
+    - "My iOS app keeps closing"보다는 "Crashing iOS app”
