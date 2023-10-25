@@ -406,3 +406,7 @@ Pull Request #607 - Add hug to REST frameworks list
     2) 검색 키워드에 `*`는 와일드 카드 역할 (ex. What a * day)
     
     3) `-`,`+` 연산자 : 특정 검색어 빼거나 포함한 검색 결과 (ex. “Git hosting solutions -github +gitlab)
+ 
+### 3. 중요 단어만 포함해서, 단순하게
+ 
+핵심 키워드로만 검색
