@@ -409,4 +409,9 @@ Pull Request #607 - Add hug to REST frameworks list
  
 ### 3. 중요 단어만 포함해서, 단순하게
  
-핵심 키워드로만 검색
+- 핵심 키워드로만 검색
+- IT 기술 업계에 특화된 단어나 동사를 핵심 키워드로 사용하면 더 전문적인 결과를 얻을 수 있음
+- 예시
+    - Gradle의 “Command not found : gradle” 에러 검색 시 `Troubleshoot`(이슈나 버그를 해결하다) 동사를 활용하면 양질의 검색 결과 얻기 가능
+    - Troubleshoot command not found : gradle error → 많은 검색 결과 / 공식 gradle 문서의 가이드 참고 가능
+    - How can I fix command not found : gradle error? → 상대적으로 적은 검색 결과 / gradlew에 대한 검색 결과가 섞여 나옴
