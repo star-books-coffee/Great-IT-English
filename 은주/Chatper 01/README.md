@@ -165,7 +165,8 @@ ex) FYI, this API is deprecated. / 참고로, 이 API는 더 이상 권장되지
 4. 웹페이지가 사용할만한 키워드로 검색하기
     - 일상적인 표현으로 구성된 키워드보다는 웹페이지가 포함할 만한 단어로 키워드를 구성하기
     - "My iOS app keeps closing"보다는 "Crashing iOS app”
-  ### 6. 단어 하나로 생사가 갈리는 소프트웨어 법률 영어
+
+### 6. 단어 하나로 생사가 갈리는 소프트웨어 법률 영어
 
 - 영어 법률 문서의 특징
 1. 조동사 Shall, May 의 빈번한 사용
@@ -179,3 +180,11 @@ ex) FYI, this API is deprecated. / 참고로, 이 API는 더 이상 권장되지
     - `이하 ~라 한다` 라고 정의하는 것처럼, 영어 법률 문서는 (the "Software")와 같이 용어의 첫번째 글자를 대문자로 쓰고, 용어가 처음 정의되는 부분을 큰 따옴표로 표시
 3. 강조가 필요한 부분, 법적 책임 소재를 명시하는 부분은 대문자로 표시
 4. 문장 사이의 관계나 법률 문서의 성격을 강조하기 위해 hereto(여기에), hereafter(이후로), thereof(앞서 언급된 그것의) 와 같은 대명사형 부사 사용
+
+- MIT 라이선스 예시
+    - `free of charge` : 무료로
+    - `sublicense` : 특허를 양도하다, 재실시하다, 2차 라이선스를 부여하다
+    - `subject to` : ~를 조건으로, 조건에 따라
+        - ex) subject to the following conditions) 아래 조건에 따라
+        - terms : 서비스 사용 전 합의되어야 하는 조건
+        - conditions : 서비스 중에 준수해야 하는 조건
