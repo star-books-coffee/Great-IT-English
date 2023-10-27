@@ -415,3 +415,12 @@ Pull Request #607 - Add hug to REST frameworks list
     - Gradle의 “Command not found : gradle” 에러 검색 시 `Troubleshoot`(이슈나 버그를 해결하다) 동사를 활용하면 양질의 검색 결과 얻기 가능
     - Troubleshoot command not found : gradle error → 많은 검색 결과 / 공식 gradle 문서의 가이드 참고 가능
     - How can I fix command not found : gradle error? → 상대적으로 적은 검색 결과 / gradlew에 대한 검색 결과가 섞여 나옴
+ 
+### 4. 웹페이지가 사용할만한 키워드로 검색하기
+
+- 검색 엔진은 웹페이지 내 키워드를 분석해 자주 인용되거나 검색 키워드를 알맞게 포함하는 웹 페이지를 보여줌
+    
+    ⇒ 일상적인 표현보다는 웹페이지가 포함할만한 단어로 키워드 구성해야 함
+    
+- 영어로 정보를 검색할 때 가장 중요한 것 : **내가 찾고자 하는 정보를 영어로 키워드화**
+- 문법적으로 어색한 문장이나 잘못된 철자 검색 → 퀄리티 급하락
