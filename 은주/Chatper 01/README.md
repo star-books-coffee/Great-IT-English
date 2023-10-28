@@ -188,4 +188,5 @@ ex) FYI, this API is deprecated. / 참고로, 이 API는 더 이상 권장되지
         - ex) subject to the following conditions) 아래 조건에 따라
         - terms : 서비스 사용 전 합의되어야 하는 조건
         - conditions : 서비스 중에 준수해야 하는 조건
-        - substanstial : (양, 가치, 중요성이) 상당한
+    - substanstial : (양, 가치, 중요성이) 상당한
+    - `as is` : (어떤 조건, 상태에서든) 있는 그대로
