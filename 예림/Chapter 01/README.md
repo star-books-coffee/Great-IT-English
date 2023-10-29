@@ -424,3 +424,62 @@ Pull Request #607 - Add hug to REST frameworks list
     
 - 영어로 정보를 검색할 때 가장 중요한 것 : **내가 찾고자 하는 정보를 영어로 키워드화**
 - 문법적으로 어색한 문장이나 잘못된 철자 검색 → 퀄리티 급하락
+
+## 6. 단어 하나로 생사가 갈리는 소프트웨어 법률 영어
+
+- 모든 오픈소스를 무료로 사용할 수 있는 것은 아님
+- 제한된 오픈소스를 허가 없이 사용하거나 저작권 고지를 무시하고 프로젝트를 개발할 경우, 엄청난 배상금을 지불하거나 프로젝트를 중단하게 될 수도 있음
+- 불필요한 법적 문제를 마주하지 않으려면 주요 소프트웨어 라이선스의 법적 허용 범위를 명확히 알고 있어야 함
+
+### 영어 법률 문서의 특징
+
+1. Shall과 May
+    - Shall : 반드시 지켜야 하는 것(Obiligation)
+    - May : 허용되는 것(Permission)
+2. 일반적으로 법률 문서는 시작 부분에 문서에서 다루게 될 주요 용어를 정의함
+    - 첫 번째 글자를 대문자로 쓰고, 용어가 처음 정의되는 부분을 큰 따옴표로 표시
+    - 이후 등장하는 용어는 the Sofeware 처럼 큰 따옴표 없이 첫 글자의 대문자만 유지
+    - ex) associated documentation files (the “Software”)
+        
+        이와 연관된 모든 문서 파일들(이하 “소프트웨어”라 한다)
+        
+    1. 강조가 필요한 부분, 법적 책임 소재를 명시하는 부분은 대문자로 표시
+    2. 문장 사이의 관계나 법률 문서의 성격을 강조하기 위해 hereto(여기에), hereafter(이후로), thereof(앞서 언급된 그것의) 같은 대명사형 부사를 사용
+    
+    ### Example : MIT License
+    
+    | 단어 | 뜻 |
+    | --- | --- |
+    | Grant | 권한을 부여하다, 인정하다, 허가하다 |
+    | Without restriction, Without limitation | 제약 없이 |
+    | Sublicense | 특허를 양도하다, 재실시하다, 2차 라이선스를 부여하다 |
+    | Persons | (사람, 법인 등의) 독립체들 |
+    | Subject to | ~을 조건으로, 조건에 따라 |
+    | As follows / As stated below | 아래와 같이 |
+    | Condition | 조건 |
+    | As is | (어떤 조건, 상태에서든) 있는 그대로 |
+    | Of any kind | 어떤 종류의 ~도 |
+    | Including but not limited to | (뒤의 대상을) ~를 포함하지만 국한되지 않고 |
+    | Liable for | ~에 대한 책임이 있는 |
+    
+    ### 기타 본문 단어 & 표현 정리
+    
+    - Substantial : (양, 가치, 중요성이) 상당한
+    - Merchantability : 판매 적격성, 상품성
+    - Noninfringement : 비침회, 비위반, 준법성
+    - Tort : 불법 행위
+    
+    ### IT 주요 법률 용어
+    
+    | 단어 | 뜻 |
+    | --- | --- |
+    | Terms and conditions | 이용 약관 |
+    | Privacy policy | 개인 정보 정책 |
+    | Copyleft | 공개저작권 |
+    | Patent | 특허권 |
+    | Trademark rights | 상표권 |
+    | Attribution | 인용 표시 |
+    | Redistribution | 재배포 |
+    | Disclaimer | 표명 진술, 부인(Denial) |
+    | Derivative Work | 2차 저작물 |
+    | Liability | 법적 책임, 부채 |
