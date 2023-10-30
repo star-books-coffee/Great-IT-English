@@ -190,3 +190,26 @@ ex) FYI, this API is deprecated. / 참고로, 이 API는 더 이상 권장되지
         - conditions : 서비스 중에 준수해야 하는 조건
     - substanstial : (양, 가치, 중요성이) 상당한
     - `as is` : (어떤 조건, 상태에서든) 있는 그대로
+    - `liable for` : ~에 대한 책임이 있는, ~에 대한 의무가 있는
+    - `or otherwise` : (앞서 언급한 것의) 또는 그 반대, (앞서 언급한 것) 이든 그 외 다른 것이든
+    - `out of` : ~로부터, ~도중에
+
+- IT 주요 법률 영어
+    - Terms and conditions : 이용 약관
+    - Copyleft : 공개저작권
+    - Patent : 특허권
+    - Liability : 법적 책임, 부채
+ 
+### 7. 품격 있게 비즈니스 이메일을 작성하는 방법
+
+1. **제목**
+    - Regarding (~에 대하여) 로 시작하기도 함
+        - Regarding Technical Support
+    - 관사 생략하여 최대한 간소화
+    - 상대방 조치 필요한 경우 Action Required, Urgent 붙임
+2. **본문**
+    
+    1) 호칭
+    
+    - 수신인이 특정되지 않은 경우 `Whom it may concern (연관될 수 있는 사람)` 이라는 표현 사용
+    - Hello 는 Hi 보다 조금 더 격식 갖춘 인사말 (IT 업계는 처음 대화하는 상대방과도 hi 사용하는 경우가 많음)
