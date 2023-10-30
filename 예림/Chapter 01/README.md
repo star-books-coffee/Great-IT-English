@@ -483,3 +483,8 @@ Pull Request #607 - Add hug to REST frameworks list
     | Disclaimer | 표명 진술, 부인(Denial) |
     | Derivative Work | 2차 저작물 |
     | Liability | 법적 책임, 부채 |
+
+
+## 7. 품격 있게 비즈니스 이메일을 작성하는 방법
+
+- 영문 이메일은 이메일을 작성하는 당사자인 “We” 또는 “I”를 주어로 활용하는 경우가 많음
