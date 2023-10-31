@@ -210,6 +210,29 @@ ex) FYI, this API is deprecated. / 참고로, 이 API는 더 이상 권장되지
 2. **본문**
     
     1) 호칭
-    
     - 수신인이 특정되지 않은 경우 `Whom it may concern (연관될 수 있는 사람)` 이라는 표현 사용
     - Hello 는 Hi 보다 조금 더 격식 갖춘 인사말 (IT 업계는 처음 대화하는 상대방과도 hi 사용하는 경우가 많음)
+    
+    2) 인사
+    - I hope you are doing well.
+    - I hope all is well, I hope you are well.
+        - 잘 지내고 있기를 바랍니다
+    - I hope this email finds you well.
+        - 이 이메일이 잘 전달되기를 바랍니다
+    - 주말이 끝나거나 휴가에서 복귀하는 경우
+        - I hope you enjoyed your weekend. : 즐거운 주말이 되셨기를 바랍니다
+        - I hope you had a great vacation. : 멋진 휴가 보내셨기를 바랍니다
+    
+    3) 본문
+    - 영문 이메일은 한국 이메일보다 **간결함을 중요시**하며, 서문 없이 본론으로 바로 들어가는 경우가 많음
+        - I’m writing to
+        - I’m emailing to
+    
+    4) 요청
+    
+    - 정중한 표현이 필요한 경우
+        - Could you please ~?
+        - I'd like to request
+        - I would appreciate it if you could ~
+    - 지나치게 격식을 갖출 필요가 없는 상황에서는 Can you ~? / Please ~ 로 요청함
+    
