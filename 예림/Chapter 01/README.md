@@ -446,45 +446,263 @@ Pull Request #607 - Add hug to REST frameworks list
     1. 강조가 필요한 부분, 법적 책임 소재를 명시하는 부분은 대문자로 표시
     2. 문장 사이의 관계나 법률 문서의 성격을 강조하기 위해 hereto(여기에), hereafter(이후로), thereof(앞서 언급된 그것의) 같은 대명사형 부사를 사용
     
-    ### Example : MIT License
-    
-    | 단어 | 뜻 |
-    | --- | --- |
-    | Grant | 권한을 부여하다, 인정하다, 허가하다 |
-    | Without restriction, Without limitation | 제약 없이 |
-    | Sublicense | 특허를 양도하다, 재실시하다, 2차 라이선스를 부여하다 |
-    | Persons | (사람, 법인 등의) 독립체들 |
-    | Subject to | ~을 조건으로, 조건에 따라 |
-    | As follows / As stated below | 아래와 같이 |
-    | Condition | 조건 |
-    | As is | (어떤 조건, 상태에서든) 있는 그대로 |
-    | Of any kind | 어떤 종류의 ~도 |
-    | Including but not limited to | (뒤의 대상을) ~를 포함하지만 국한되지 않고 |
-    | Liable for | ~에 대한 책임이 있는 |
-    
-    ### 기타 본문 단어 & 표현 정리
-    
-    - Substantial : (양, 가치, 중요성이) 상당한
-    - Merchantability : 판매 적격성, 상품성
-    - Noninfringement : 비침회, 비위반, 준법성
-    - Tort : 불법 행위
-    
-    ### IT 주요 법률 용어
-    
-    | 단어 | 뜻 |
-    | --- | --- |
-    | Terms and conditions | 이용 약관 |
-    | Privacy policy | 개인 정보 정책 |
-    | Copyleft | 공개저작권 |
-    | Patent | 특허권 |
-    | Trademark rights | 상표권 |
-    | Attribution | 인용 표시 |
-    | Redistribution | 재배포 |
-    | Disclaimer | 표명 진술, 부인(Denial) |
-    | Derivative Work | 2차 저작물 |
-    | Liability | 법적 책임, 부채 |
+### Example : MIT License
+
+| 단어 | 뜻 |
+| --- | --- |
+| Grant | 권한을 부여하다, 인정하다, 허가하다 |
+| Without restriction, Without limitation | 제약 없이 |
+| Sublicense | 특허를 양도하다, 재실시하다, 2차 라이선스를 부여하다 |
+| Persons | (사람, 법인 등의) 독립체들 |
+| Subject to | ~을 조건으로, 조건에 따라 |
+| As follows / As stated below | 아래와 같이 |
+| Condition | 조건 |
+| As is | (어떤 조건, 상태에서든) 있는 그대로 |
+| Of any kind | 어떤 종류의 ~도 |
+| Including but not limited to | (뒤의 대상을) ~를 포함하지만 국한되지 않고 |
+| Liable for | ~에 대한 책임이 있는 |
+
+### 기타 본문 단어 & 표현 정리
+
+- Substantial : (양, 가치, 중요성이) 상당한
+- Merchantability : 판매 적격성, 상품성
+- Noninfringement : 비침회, 비위반, 준법성
+- Tort : 불법 행위
+
+### IT 주요 법률 용어
+
+| 단어 | 뜻 |
+| --- | --- |
+| Terms and conditions | 이용 약관 |
+| Privacy policy | 개인 정보 정책 |
+| Copyleft | 공개저작권 |
+| Patent | 특허권 |
+| Trademark rights | 상표권 |
+| Attribution | 인용 표시 |
+| Redistribution | 재배포 |
+| Disclaimer | 표명 진술, 부인(Denial) |
+| Derivative Work | 2차 저작물 |
+| Liability | 법적 책임, 부채 |
 
 
 ## 7. 품격 있게 비즈니스 이메일을 작성하는 방법
 
 - 영문 이메일은 이메일을 작성하는 당사자인 “We” 또는 “I”를 주어로 활용하는 경우가 많음
+- “With Kind Regards” , “Best Wishes”와 같은 맺음말과 이름으로 이메일을 마무리하는 등 한국식 이메일과 구조적으로 다름
+
+### 이메일 예시
+
+```
+To : geekyboy@geekhaus.club
+
+From : contact@geekhaus.club
+
+Subject : Welcome to Geek Haus!
+
+Deer Geekboy,
+친애하는 Geekboy님께,
+
+We hope this email finds you well.
+이 이메일이 잘 전달되기를 바랍니다.
+
+We are thrilled to inform that your application has approved, and you are now officially a memeber of Geek Haus.
+귀하의 지원서가 승인되었으며, 귀하는 이제 공식적으로 긱하우스 멤버가 되었음을 알리게 되어 기쁩니다.
+
+We will be hosting a welcome party for our new club members some thime in the nex few weeks. We will send you another email later this week with details regarding the event.
+긱하우스는 앞으로 몇 주 안에 새로운 클럽 회원들을 위한 환영 파티를 개최할 것입니다. 이번 주 후반에 이벤트 세부 정보에 대한 이메일을 보내드리겠습니다.
+
+Welcome to the club, we look forward to see you at the party!
+클럽에 오신 것을 환영합니다. 파티에서 뵙기를 바랍니다!
+
+Best Regards,
+Geek Haus Team
+안부를 전합니다,
+긱하우스 팀 드림
+```
+
+### 1. 제목
+
+- 주로 간략한 문장 또는 명사구 형태로 작성
+- Regarding(~에 대하여)으로 시작하기도 함.
+
+```
+Request for Feedback | 피드백 요청
+Regarding Technical Support | 기술 지원 관련
+```
+
+- 이메일 제목은 일반적으로 a, an, the와 같은 관사 생략
+
+```
+Inquiry Regarding Schedule | 스케줄 관련 문의
+```
+
+- 상대방의 조치가 필요한 경우에는 ‘Action Required’를, 긴급한 요청은 ‘Urgent’를 제목에 붙이기도 함
+
+```
+[Action Required] Email Verification | 조치 필요 : 이메일 인증
+Urgent Request for Meeting Confirmation | 긴급 회의 확인 요청
+```
+
+### 2. 본문
+
+- **1) 호칭**
+    - 격식을 갖춘 경우 : Dear + Mr. / Ms. + 성(Last name)
+    - 캐주얼한 상황 : Dear + 이름(First name)
+    - 호칭의 첫 글자는 대문자로, 호칭 뒤에는 쉼표로 마무리
+    
+    ```
+    Dear Ms. Watson,
+    Dear Jane,
+    ```
+    
+    - 특정 지위나 부서를 호칭으로 사용 가능
+    
+    ```
+    Dear HR Manager,
+    Dear Frontent team,
+    ```
+    
+    - 수신인이 특정되지 않은 경우에는 “Whom it may concern(연관될 수 있는 사람”이라는 표현 사용
+    
+    ```
+    Dear whom it may concern,
+    To whom it may concern,
+    ```
+    
+    - 어느 정도 관계 형성된 상대방과는 바로 인사와 함께 이메일 시작
+    
+    ```c
+    Hi Michelle,
+    Hi all,
+    Hello Yelim, // Hello는 Hi보다 조금 더 격식을 갖춘 인사말
+    ```
+    
+- **2) 인사**
+    - 간단한 안부 인사 또는 소개로 본론 시작
+    
+    ```c
+    I hope you are doing well. (I hope all is well, I hope you are well)
+    잘 지내고 있기를 바랍니다.
+    
+    How are you?
+    
+    I hope this email finds you well.
+    
+    My name is Dojoon, and I am the front-end developer for Geek Haus.
+    ```
+    
+    - 상대방과 친분이 있는 경우, 주말이 끝나거나 휴가에서 복귀하는 경우
+    
+    ```c
+    I hope you enjoyed your weekend.
+    
+    I hope you had a great vacation.
+    ```
+    
+- **3) 본론**
+    - 간결함을 중요시, 서문 없이 본론으로 바로 들어가는 경우가 많음
+    
+    ```
+    I am writing in reference to the meeting agenda.
+    회의 안건과 관련해서 이메일을 드립니다.
+    
+    I am writing the request testing for the latest build.
+    최신 빌드에 대한 테스트를 요청하기 위해 이메일을 송부합니다.
+    
+    I am emailing to inform you that we have found some issues with your pull request.
+    풀 리퀘스트에 문제를 발견했음을 알려드리기 위해 이메일을 보내드립니다.
+    ```
+    
+- **요청**
+    - 정중한 표현이 필요한 경우 : “Could you please~”, “I’d like to request~”, “I would appreciate it if you could~”
+    - 지나치게 격식을 갖출 필요가 없는 상황 : “Can you~”, “Please~”
+
+### 3. 마무리
+
+- **1) 마무리 인사**
+    
+    ```
+    Please feel free to contact me for more information.
+    추가적인 정보는 저에게 연락주시기 바랍니다.
+    
+    I look forward to your response. (I look forward to hearing from you.)
+    회신 부탁드립니다.
+    
+    Thank you for your time.
+    시간을 내주셔서 감사합니다.
+    
+    Don't hesitate to contact me for further assistance.
+    추가적인 도움이 필요하시면 주저하지 말고 제게 연락 주세요.
+    ```
+    
+- **2) 맺음말**
+    - "With Kind Regards", "Best Regards", "Regards", "Sincerely”
+    - 여기서 “Regards”는 인사, 축복, 안부 등의 의미로 s를 붙여 복수 형태로 사용
+    - 맺음말 끝에는 쉼표 붙이고 이메일 작성자의 이름 또는 부서명 기재
+    
+    ```
+    Sincerely,
+    John
+    
+    Best Regards,
+    DevOps team
+    ```
+    
+    - 이미 친분이 있는 상대방 : "Thanks", "Cheers", "Best”처럼 짧고 캐주얼한 맺음말
+    
+    ```
+    Thanks,
+    Steve
+    
+    Best,
+    Geek Haus
+    ```
+    
+    - 영문 이메일로 의견이나 요청 사항을 작성할 때에는 작성자나 작성자가 포함된 조직을 명시하는 것이 일반적
+    
+    ```
+    We appreciate your assistance.
+    
+    I hope everything is going well.
+    
+    We will not be able to attend the seminar next week.
+    
+    I am writing in reference to our schedule for this week's meeting.
+    ```
+    
+- **첨부 파일과 관련된 표현**
+    - Attach, Attached, Attachement 등으로 표현
+    
+    ```
+    Please find the attached file.
+    
+    Please refer to the file attached for more information
+    자세한 내용은 첨부된 파일을 참조하시기 바랍니다.
+    
+    I have attached the file for review.
+    ```
+    
+- **리마인더와 관련된 표현**
+    - Gentle reminder, Friendly remindeer와 같은 형태 사용
+    
+    ```
+    This is a gentle reminder that your document review is due this Friday.
+    문서 검토 마감이 이번 주 금요일이라는 것을 상기시켜드립니다.
+    
+    Just a friendly reminder that we will having a meeting at 3PM.
+    3시에 회의가 있다는 것을 상기시켜 드립니다.
+    
+    I am following up to check if you were able to take a look at my suggestion from my previous email.
+    이전 이메일의 제안을 살펴보셨는지 확인하기 위해 팔로우업 합니다.
+    ```
+    
+- **희소식을 전달할 때 사용하는 표현**
+    - Be (thrilled / excited / happy) to + 동사원형
+- **거절과 관련된 표현**
+    - Regret to, Sorry to(유감이다)
+- **감사 표현**
+    - “Thank you for~”, “I appreciate~”
+    - 좀 더 격식있는 표현 : “Express my (our) gratitude)”
+- **양해를 구하는 표현**
+    - Apologize, Sorry
+    - “Thank you for your patience” : 기다려주셔서 감사합니다 or (앞으로 불편이나 지연이 있을 수 있으니) 양해를 구한다
