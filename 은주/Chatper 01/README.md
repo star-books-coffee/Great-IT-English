@@ -235,4 +235,21 @@ ex) FYI, this API is deprecated. / 참고로, 이 API는 더 이상 권장되지
         - I'd like to request
         - I would appreciate it if you could ~
     - 지나치게 격식을 갖출 필요가 없는 상황에서는 Can you ~? / Please ~ 로 요청함
+  
+3. **마무리**
+    
+    1) 마무리 인사 : **이메일 본론과 맺음말 사이**에 작성
+    
+    - `Please feel free to contact me` for more information.
+    - I `look forward to your response`. ( I look forward to hearing from you)
+    - Thank you for your time.
+    - Don’t `hesitate to contact me` for further assistant
+    
+    2) 맺음말 
+    
+    - With Kind Regards
+    - Best Regards
+    - Regards
+    - Sincerely
+- 나는, 저는과 같이 자신을 직접적으로 드러내는 표현을 자제하는 한국식 이메일과 달리, **영문 이메일은 주어를 포함해서 작성하는 것이 일반적**
     
