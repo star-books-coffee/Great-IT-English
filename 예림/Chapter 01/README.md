@@ -708,6 +708,7 @@ Urgent Request for Meeting Confirmation | 긴급 회의 확인 요청
     - “Thank you for your patience” : 기다려주셔서 감사합니다 or (앞으로 불편이나 지연이 있을 수 있으니) 양해를 구한다
     - 
 
+## 8. 급변하는 기술 트렌드, 뒤쳐지지 않고 성장하는 법
 - IT 트렌드 파악에 유용한 사이트 및 레퍼런스 소개
 
 > 관심 있는 것은 👍 표시
