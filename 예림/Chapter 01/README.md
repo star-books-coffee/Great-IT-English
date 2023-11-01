@@ -706,3 +706,48 @@ Urgent Request for Meeting Confirmation | 긴급 회의 확인 요청
 - **양해를 구하는 표현**
     - Apologize, Sorry
     - “Thank you for your patience” : 기다려주셔서 감사합니다 or (앞으로 불편이나 지연이 있을 수 있으니) 양해를 구한다
+    - 
+
+- IT 트렌드 파악에 유용한 사이트 및 레퍼런스 소개
+
+> 관심 있는 것은 👍 표시
+> 
+
+### 서베이
+
+- 👍 [Stack Overflow Annual Developer Survey](https://survey.stackoverflow.co/2023/)
+- [Hired, State of Software Engineers](https://hired.com/state-of-software-engineers/2023/)
+- [Jebrain, The State of Developer Ecosystem](https://www.jetbrains.com/lp/devecosystem-2022/)
+- [Pluralsight, Technology Index](https://www.pluralsight.com/tech-index)
+- 👍 [TIOBE Index](https://www.tiobe.com/tiobe-index/)(프로그래밍 언어 인기 순위)
+
+### 포럼 및 블로그
+
+- [Hackernoon](https://hackernoon.com/)
+    
+    
+- 👍 [Dev Community](https://dev.to/))
+    
+    
+- [Hacker News](https://news.ycombinator.com/)
+    
+
+### 기술 컨퍼런스
+
+- [Apple WWDC](https://developer.apple.com/)
+- [Google I/O](https://io.google/2023/intl/ko/)
+- [Microsoft Ignite](https://ignite.microsoft.com/)
+
+### 플랫폼
+
+- 👍 [Github Explore](https://github.com/explore)
+- [Freecodecamp](https://www.freecodecamp.org/)
+- [Reddit](https://www.reddit.com/r/coding/)
+    - r/coding
+    - r/learnprogramming
+    - r/softwaredevelopment
+    - r/programming
+
+### 미디어
+
+- 👍 [TechCrunch](https://techcrunch.com/)
