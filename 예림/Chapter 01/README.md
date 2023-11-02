@@ -751,4 +751,12 @@ Urgent Request for Meeting Confirmation | 긴급 회의 확인 요청
 
 ### 미디어
 
-- 👍 [TechCrunch](https://techcrunch.com/)
+- [TechCrunch](https://techcrunch.com/)
+- 👍 [The Verge](https://www.theverge.com)
+
+- 👍 [Wired](https://www.wired.com)
+
+- 👍 [Mashable](https://mashable.com)
+
+- [The Next Web](https://thenextweb.com)
+
