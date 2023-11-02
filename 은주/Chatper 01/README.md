@@ -252,4 +252,13 @@ ex) FYI, this API is deprecated. / 참고로, 이 API는 더 이상 권장되지
     - Regards
     - Sincerely
 - 나는, 저는과 같이 자신을 직접적으로 드러내는 표현을 자제하는 한국식 이메일과 달리, **영문 이메일은 주어를 포함해서 작성하는 것이 일반적**
-    
+<br>
+
+- 리마인더와 관련된 표현
+    - `Gentle reminder, Friendly reminder` <br>
+    ex) This is a gentle reminder that your document review is due this Friday.
+- 감사 표현
+    - `Express my (our) gratitude` : 조금 더 격식있는 표현 <br>
+    ex) I would like to express my (sincere) gratitude for your support.
+- 양해를 구하는 표현
+    - `Thank you for your patience` : (앞으로 불편이나 지연이 있을 수 있으니) 양해를 구한다와 같이 **간접적으로 양해 구할 때도 사용**
