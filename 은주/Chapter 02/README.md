@@ -12,3 +12,4 @@
 - **CSS Intro**
     - `dialect` : 파생된 언어, 특수 언어
         - XML (including XML dialects such as SVG, MathML or XHTML)
+    - synchronously : 동기적으로 (순차적으로)
