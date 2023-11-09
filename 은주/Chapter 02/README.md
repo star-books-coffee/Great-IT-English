@@ -12,4 +12,8 @@
 - **CSS Intro**
     - `dialect` : 파생된 언어, 특수 언어
         - XML (including XML dialects such as SVG, MathML or XHTML)
-    - synchronously : 동기적으로 (순차적으로)
+    - `synchronously` : 동기적으로 (순차적으로)
+    - `specification` : 사양, 명세
+        - The scope of the specification increased significantly
+    - `periodically` : 주기적으로
+        - This code block fetches the user data from the server periodically.
