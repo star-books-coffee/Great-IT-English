@@ -12,3 +12,8 @@
 | Render | 데이터와 UI 컴포넌트를 모아 웹페이지를 만들다; 2D/3D 그래픽 요소를 그리다 |  |  |  |
 | Specification | 사양; 명세, 명세서 |  |  | 커리어 관리에 자주 등장하는 ‘스펙’에 해당, 기술 스택이나 요구사항 명세를 포함한 문서도 Spec, Specification이라고 함 |
 | Take a snapshot | 스냅샷을 찍다 |  |  | 프로그램, 데이터베이스나 서비스에서 특정 시점의 복사본 또는 그 상태를 기록해둔 것 |
+| Cross-platform | 여러 운영체제, 프로그램, 프로그래밍 언어 등에서 작동하는 것 |  |  |  |
+| Scripting language | 스크립트 언어 |  |  | 소프트웨어를 제어하기 위한 프로그래밍 언어로 소스 코드를 한 줄씩 해석하며 프로그램을 실행하는 인터프리터 방식으로 소프트웨어 제어 |
+| Supplement | 보충, 추가물 | Supplement meterials for mobile dev course | 모바일 개발 코스 보충 자료 |  |
+| Document Object Model(DOM) | 문서 객체 모델 | Client-side JavaScript extends the core language by supplying objects to control a browser and its Document Object Model. | 클라이언트 측 JavaScript는 브라우저와 문서 객체 모델(DOM)을 제어하는 객체를 제공하여 코어 언어를 확장합니다. | HTML, XML 문서의 프로그래밍 인터페이스(접점)으로, 웹페이지를 구조화된 방식으로 표현하여 프로그램이나 스크립트와 웹페이지와 상호작용할 수 있도록 돕습니다. |
+| Invocation | 실행, 탄원, 발동 | Now you can invoke the preprocessor. | 이제 전처리기를 실행할 수 있습니다. | Call과도 유사하지만 Call은 프로세스나 루틴을 직접 실행하는 것을 뜻하는 것이고, Invoke는 간접적으로 실행하는 것을 뜻합니다. |
