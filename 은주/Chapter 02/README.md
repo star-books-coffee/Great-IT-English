@@ -17,3 +17,5 @@
         - The scope of the specification increased significantly
     - `periodically` : 주기적으로
         - This code block fetches the user data from the server periodically.
+- **JavaScript Intro**
+    - `cross-platform` : 여러 운영체제, 프로그램, 프로그래밍 언어 등에서 작동하는 것 
