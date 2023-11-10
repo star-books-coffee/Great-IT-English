@@ -17,3 +17,4 @@
 | Supplement | 보충, 추가물 | Supplement meterials for mobile dev course | 모바일 개발 코스 보충 자료 |  |
 | Document Object Model(DOM) | 문서 객체 모델 | Client-side JavaScript extends the core language by supplying objects to control a browser and its Document Object Model. | 클라이언트 측 JavaScript는 브라우저와 문서 객체 모델(DOM)을 제어하는 객체를 제공하여 코어 언어를 확장합니다. | HTML, XML 문서의 프로그래밍 인터페이스(접점)으로, 웹페이지를 구조화된 방식으로 표현하여 프로그램이나 스크립트와 웹페이지와 상호작용할 수 있도록 돕습니다. |
 | Invocation | 실행, 탄원, 발동 | Now you can invoke the preprocessor. | 이제 전처리기를 실행할 수 있습니다. | Call과도 유사하지만 Call은 프로세스나 루틴을 직접 실행하는 것을 뜻하는 것이고, Invoke는 간접적으로 실행하는 것을 뜻합니다. |
+| Manipulation | 조작, 조종 | Token manipulation | 토큰 조작 |  |
