@@ -18,3 +18,17 @@
 | Document Object Model(DOM) | 문서 객체 모델 | Client-side JavaScript extends the core language by supplying objects to control a browser and its Document Object Model. | 클라이언트 측 JavaScript는 브라우저와 문서 객체 모델(DOM)을 제어하는 객체를 제공하여 코어 언어를 확장합니다. | HTML, XML 문서의 프로그래밍 인터페이스(접점)으로, 웹페이지를 구조화된 방식으로 표현하여 프로그램이나 스크립트와 웹페이지와 상호작용할 수 있도록 돕습니다. |
 | Invocation | 실행, 탄원, 발동 | Now you can invoke the preprocessor. | 이제 전처리기를 실행할 수 있습니다. | Call과도 유사하지만 Call은 프로세스나 루틴을 직접 실행하는 것을 뜻하는 것이고, Invoke는 간접적으로 실행하는 것을 뜻합니다. |
 | Manipulation | 조작, 조종 | Token manipulation | 토큰 조작 |  |
+
+## 2. 간편하고 직관적인 프로그래밍, 파이썬
+
+| 단어 | 뜻 | 예문 | 예문 뜻 | 비고 |
+| --- | --- | --- | --- | --- |
+| Code Readability | 가독성 |  |  | 가독성이 떨어지는 코드를 스파게티 코드라고 함 |
+| Imperative Programming | 명령형 프로그래밍 |  |  |  |
+| Functional Programming | 함수형 프로그래밍 |  |  |  |
+| Procedural Programming | 절차적 프로그래밍 |  |  |  |
+| Conditional Statement | 조건문 |  |  |  |
+| Looping Statement | 반복문 |  |  |  |
+| Indentation | 들여쓰기 |  |  |  |
+| Whitespace | 여백 |  |  | 공백(Space), 탭(Tab)처럼 화면 상에 아무것도 표시되지 않는 문자 |
+
