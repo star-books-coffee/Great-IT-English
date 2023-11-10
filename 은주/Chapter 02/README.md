@@ -18,4 +18,13 @@
     - `periodically` : 주기적으로
         - This code block fetches the user data from the server periodically.
 - **JavaScript Intro**
-    - `cross-platform` : 여러 운영체제, 프로그램, 프로그래밍 언어 등에서 작동하는 것 
+    - `operator` : 연산자
+    - `supplement` : 보충하다
+        - JavaScript can be extended for a variety of purposes by supplementing it with additional objects.
+    - `Document Object Model (DOM)` : 문서 객체 모델 (웹 페이지를 구조화된 방식으로 표현하여 프로그램이나 스크립트, 웹페이지와 상호작용 할 수 있도록 도움)
+    - `invocation` : 실행
+
+## 2. 간편하고 직관적인 프로그래밍, 파이썬 (Python)
+
+- **파이썬 Intro**
+    - `a number of` : 다수의 (more than two, but fewer than many)
