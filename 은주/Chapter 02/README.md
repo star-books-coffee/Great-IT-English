@@ -92,3 +92,5 @@
 - **React Intro**
     - `declarative` : 선언적인
         - 선언형 프로그래밍 : 프로그램이 “어떻게” 동작하는지가 아닌 “무엇” 을 하는지에 초점을 두는 스타일
+    - `Keep A out of B` : A 를 B 로부터 분리하다, 방지하다
+        - keep state out of the DOM : 상태와 웹페이지의 문서 객체 모델(DOM)을 분리한다
