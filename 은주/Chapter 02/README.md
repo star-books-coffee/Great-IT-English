@@ -98,3 +98,7 @@
         - 주로 임시적으로, 임의적으로 수행하는 작업이나 변경사항을 나타날 때 사용
         - arbitrary inputs (called "props")
 ## 4. 가볍고 유연한 백엔드, 익스프레스 (Express)
+- **Express Intro**
+    - `unopinionated` : 유연한
+        - 특정 디자인 패턴과 템플릿에 따라 확실한 가이드라인과 사용법을 제공해주는 것 : Opinionated
+        - 제한이 덜하고 높은 자유도와 유연성을 제공하는 것 : Unopinionated
