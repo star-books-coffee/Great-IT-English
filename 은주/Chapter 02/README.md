@@ -88,17 +88,104 @@
     15. D
 
 ## 3. 프론트엔드의 절대 강자, 리액트 (React)
-
+- 빈번한 데이터 변화로 안정적인 웹페이지 리렌더링(Rerendering)이 필요한 현대 웹 프론트엔드에서, **업데이트가 필요한 DOM(Document Object Model) 요소만 효율적으로 업데이트하는 가상(Virtual) DOM을 활용**해 빠르고 안정적인 성능을 보여줌
+- 컴포넌트화된 프론트엔드 요소를 활용해 코드 재사용성과 생산성을 크게 개선
+- JavaScript 코드를 HTML처럼 표현하는 JSX를 활용해 자바스크립트 코드 내에서 HTML 레이아웃 정의 가능
 - **React Intro**
     - `declarative` : 선언적인
         - 선언형 프로그래밍 : 프로그램이 “어떻게” 동작하는지가 아닌 “무엇” 을 하는지에 초점을 두는 스타일
     - `Keep A out of B` : A 를 B 로부터 분리하다, 방지하다
         - keep state out of the DOM : 상태와 웹페이지의 문서 객체 모델(DOM)을 분리한다
-    - `arbitrary` : 임의의
-        - 주로 임시적으로, 임의적으로 수행하는 작업이나 변경사항을 나타날 때 사용
-        - arbitrary inputs (called "props")
+    - `power` : 작동시키다 / powered by XX : ~에 의해 동작하는
+        - powered by Android : 안드로이드로 구동됨
+    - `arbitrary` : 임의의
+        - 주로 임시적으로, 임의적으로 수행하는 작업이나 변경사항을 나타날 때 사용arbitrary inputs (called "props")
+    - `accept` : 받아들이다,
+        - 함수나 컴포넌트에 데이터를 전달할 때는 동사 Pass를, 함수나 컴포넌트 입장에서 데이터를 전달받을 때는 동사 Accept를 주로 사용
+        - This function accepts string parameters only.
+- 테스트
+    ```
+    1. B
+    2. A -> B
+    - knowledge on HTML (knowledge 는 전치사 on 과 함께 사용되어야 함)
+    - have familiarity with : ~와 친근하다, ~에 익숙하다 (be familiar with)
+    3. D -> C
+    - follow along : (능력, 가르침 등을) 따라오다, 따르다
+    4. A -> B
+    - file an issue : 문제를 제기하다
+    - file a report : 신고하다
+    5. B -> C
+    - remain, stay : (특정 수준, 단계 등에) 머무르다
+    6. D
+    7. A
+    8. B
+    - so that : ~할 수 있도록, ~하기 위해서
+    - in the sense that : ~라는 점에서, ~라는 이유로
+    9. B
+    10. C
+    - To get our feet wet / To get the ball rolling: (새로운 일에) 발을 들이다, 시작하다 
+    - To be all thumbs : 손재주가 없다 (서툴다)
+    - To think on one's feet : 즉시 대응하다, 순간 대처능력을 발휘하다
+    - To hit the hay : 잠자리에 들다
+    11. A
+    - by hand : (기계가 아닌) 손으로
+    - by : 주로 수단, 방법을 표현할 때 사용
+    12. B
+    - for ~'s sake : ~의 가치, 이익을 위해서
+    13. D
+    14. B
+    - workaround : 해결책, 대처방안 (A method used to circumvent a technical problem)
+    - circumvent : 우회하다, 피하다  
+    15. C
+    - lousy : 형편없는, 안좋은 / awful, inadequate, terrible
+    - competent : 능숙한, 역량 있는
+    ```
+    
+
 ## 4. 가볍고 유연한 백엔드, 익스프레스 (Express)
+- ExpressJS는 NodeJS 기반으로 가볍고 빠르게 백엔드(서버)를 구축할 수 있는 웹 애플리케이션 프레임워크
 - **Express Intro**
-    - `unopinionated` : 유연한
+    - `unopinionated` : 유연한
         - 특정 디자인 패턴과 템플릿에 따라 확실한 가이드라인과 사용법을 제공해주는 것 : Opinionated
         - 제한이 덜하고 높은 자유도와 유연성을 제공하는 것 : Unopinionated
+    - `robust` : 강력한
+        - 성능이 좋고 버그가 적어 안정적인 프로그램이나 기능
+    - `at one's disposal` : 원하는 대로 쓸 수 있는
+    - `obscure` : 이해하기 어렵게 하다, 모호하게 하다 / 이해하기 힘든, 모호한
+        - without obscuring Node.js features : NodeJS의 기능을 모호하게 하지 않고
+    - `specifics` : 세부 사항, 정확한 상세 내용
+        - You can find more specifics on the APIs here.
+    - `as per` : ~에 따라
+        - in accordance with / as per your request : 귀하의 요청에 따라
+        - as per your instruction : 귀하의 지침에 따라
+- 테스트 
+    ```
+    1. C
+    2. B
+    - details on : ~에 관한 상세정보 
+    3. B
+    4. D
+    5. C -> B
+    6. A
+    - dive into : ~에 몰두하다, ~에 깊숙히 파고 들다
+    - take over : 점령하다, (직책, 권리 등을) 떠 맡다
+    7. B
+    - fall out : (머리, 치아 등이) 빠지다
+    - fall into : ~에 빠지다, ~의 범주에 들다
+    - fall for : (사람에게) 반하다, (속임수에) 넘어가다
+    - fall over : ~에 걸려 넘어지다
+    8. C
+    - encounter an error : 에러를 만나다
+    9. B
+    - crude : 대충 만든, 미숙한, 성의 없는 (rough, undeveloped, rude)
+    - refined : 정제된, 세련된
+    10. D -> B
+    - recover from : ~로부터 회복하다
+    11. C -> D
+    - exemplify : 예를 들다, 실증하다 (illustrate)
+    12. C
+    13. B -> A
+    14. C
+    - grok : (심정적으로, 직감적으로) 이해하다, 공감하다
+    15. C -> B
+    ```
