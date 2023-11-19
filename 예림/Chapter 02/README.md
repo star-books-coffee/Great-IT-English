@@ -46,3 +46,141 @@
 | Declarative | 선언적인 | 선언형 프로그래밍은 프로그램이 어떻게 동작하는지가 아닌, 무엇(What)을 하는지에 관점을 두는 프로그래밍 스타일 |
 | Component | 컴포넌트 | 프로그램에 사용되는 독립적인 구성 단위(Module)로, 재사용에 특화되어 더 큰 프로그램에 사용됨 |
 | Encapsulate | 캡슐화하다 | 데이터와 메소드를 하나의 컴포넌트로 묶는 것 (ex. Class) |
+
+
+### React Intro (1)
+
+| 단어 | 뜻 | 비고 |
+| --- | --- | --- |
+| Declarative | 선언적인 | 선언형 프로그래밍은 프로그램이 어떻게 동작하는지가 아닌, 무엇(What)을 하는지에 관점을 두는 프로그래밍 스타일 |
+| Component | 컴포넌트 | 프로그램에 사용되는 독립적인 구성 단위(Module)로, 재사용에 특화되어 더 큰 프로그램에 사용됨 |
+| Encapsulate | 캡슐화하다 | 데이터와 메소드를 하나의 컴포넌트로 묶는 것 (ex. Class) |
+| Power | 힘, 능력, 권력;작동시키다, 가동(구동)시키다, 동력을 공급하다 | 소프트웨어 서비스에서 “Powered by OO”의 형태로 “~에 의해 동작하는”, “~로 작동되는”라는 의미로 사용 |
+
+### React Intro (2)
+
+**Rendering Elements**
+
+An Element describes what you want to see on the screen.
+
+```java
+const element = <h1>Hello, world</h1>;
+```
+
+Unlike browser DOM elements, React elements are `plain` (일반적인) objects, and are cheep to create. 
+
+**Components and Props**
+
+Conceptually, components are like Javascript functions. They accept arbitrary inputs(called “props”) and return React elements describing what should appear on the screen.
+
+**Function and Class Components**
+
+The simplest way to define a component is to wirite a JavasScript function.
+
+```java
+function Welcom(props) {
+	return <h1>Hello, (props.name}</h1>;
+```
+
+This function is valid React component because it accepts a single “props” (which stands for properties) object argument with data and returns a React elements. We call such components “function components” because they are literally JavaScript functions.
+
+## 가볍고 유연한 백엔드, 익스프레스(Express)
+
+### 익스프레스에 대해서
+
+- NodeJS는 구글의 오픈소스 자바스크립트엔진인 V8을 활용해 웹 브라우저에서만 사용되던 JavaScript를 웹브라우저 밖으로 가져옴
+- JavaScript 런타임 환경인 NodeJS를 활용하면 JavaScript를 웹서버 구축 등 다양한 용도로 사용할 수 있음
+- **ExpressJS는 NodeJS를 기반으로 가볍고 빠르게 백엔드(서버)를 구축할 수 있는 웹 애플리케이션 프레임워크임**
+
+### Express Intro (1)
+
+**Express**
+
+Fast, `unopinionated`(유연한; 개방적인), minimalist web framework for Node.js
+
+**Web Applications**
+
+Express is minimal and flexible Node.js web application framework that provides a `robust`(튼튼한, 강력한) set of features for web and mobile applications.
+
+**APIs**
+
+With a myriad of HTTP utility methods and `middleware`(미들웨어; 애플리케이션이 다른 애플리케이션, 데이터베이스 또는 운영체제와 통신하는 것을 돕는 매개 역할) `at your disposal`(원하는대로 쓸 수 있는), creating a robust API is quick and easy.
+
+**Performance**
+
+Express provides a thin layer of fundamental web application features, without `obscuring`(모호하게하다) Node.js features that you know and love.
+
+**Frameworks**
+
+Many popular frameworks are based on Express.
+
+**Installing**
+
+Assuming you’ve already installed Node.js, create a directory to hold your application, and make that your working directory
+
+```bash
+$ mkdir myapp
+$ cd myapp
+```
+
+Use the npm init command to create a package.json file for your application. 
+
+### Express Intro (2)
+
+**Hello World example**
+
+```jsx
+const express = require('express')
+const app = express()
+const port = 3000
+
+app.get('/', (req, res) => {
+	res.send('Hello World!')
+})
+
+app.listen(port, () => {
+	console.log( Example app listening on port ${port} )
+})
+```
+
+The example above is actually a working server: Go ahead and click on the URL shown. … This is powered by RunKit, which provides an interactive JavaScript playground connected to a complete Node environment that runs in your web browser.
+
+**Running Locally**
+
+1. Create a directory named myapp
+2. npm init
+3. Install express as dependency, `as per`(~에 따라) the installation guide
+4. Create a file named app.js and copy in the code from the example above
+
+### Use gzip compression
+
+Use the compression middleware for gzip compression in your Express app. For example:
+
+```jsx
+const compression = require('compression')
+const express = require('express')
+const app = express()
+app.use(compression())
+console.log("스타북스 매니저 파이팅")
+```
+
+### Handle exceptions properly
+
+Before diving into these topics, you should have a basic understanding Node/Express error handling : using error-first callbacks, and propagating errors in middleware. Node uses an “error-first callback” convention for returning errors form asynchronous functions, where the first parameter to the callback function is the error object, followed by result date in succeeding parameters. … The call back function must correspondingly follow the error-first callback convention to meaningfully handle the error. 
+
+### What not to do
+
+- Listening for a uncaughtException is just a bad idea
+- We also don’t recommend using domains
+
+### How big is your applications?
+
+- small → you don’t need such a deep directory as exemplified here.
+- huge → you need to break it up into distinct npm packages
+
+### Underlying Principles and Motivations
+
+- Be mentally manageable
+    - Directories help us deal with complexity by focusing on small portions
+- Be size-appropriate
+    - Don’t create filesystem structures that aren’t justified by the actual files inside them
