@@ -84,7 +84,7 @@ function Welcom(props) {
 
 This function is valid React component because it accepts a single “props” (which stands for properties) object argument with data and returns a React elements. We call such components “function components” because they are literally JavaScript functions.
 
-## 가볍고 유연한 백엔드, 익스프레스(Express)
+## 4. 가볍고 유연한 백엔드, 익스프레스(Express)
 
 ### 익스프레스에 대해서
 
@@ -184,3 +184,30 @@ Before diving into these topics, you should have a basic understanding Node/Expr
     - Directories help us deal with complexity by focusing on small portions
 - Be size-appropriate
     - Don’t create filesystem structures that aren’t justified by the actual files inside them
+
+
+## 5. 인프라 관리를 더 간편하게, 쿠버네티스(Kubernetes)
+
+### 쿠버네티스에 대하여
+
+- 컨테이너화된 애플리케이션의 자동 배포(Deployment), 스케일링(Scailing) 및 관리를 위한 시스템
+- 대표적인 컨테이너화 솔루션으로 도커가 있으며 도커를 활용하면 Mac, 어떤 운영 체제에서든 안정적으로 서비스를 운영 및 배포할 수 있음
+- 쿠버네티스는 이렇게 컨테이너화 된 애플리케이션의 상태를 체크하고, 트래픽에 따라 서버를 유연하게 조정하고, 끊임 없는 서비스를 제공할 수 있도록 다양한 솔루션 제공
+
+### Kubernetes Intro (1)
+
+**Production-Grade Container Orchestration (운영 수준의 컨테이너 오케스트레이션)**
+
+Kubernetes, also known as K8s, is an open source system for automating deployment, scaling, and management of containerized applications. … Kubernetes builds upon 15 years … , combined with `best-of-breed`(해당 카테고리 또는 상황에서 최고인) ideas and practices from the community.
+
+**Planet Scale (행성 규모 확장성) 🪐**
+
+Designed on the same principles that allows Google to run biliions of containers a week, Kubernetes can scale without increasing your operations team.
+
+**Never Outgrow (무한한 유연성)**
+
+… Kubernetes flexibillity grows with you to deliver your applications consistently and easily no matter how complex you need is.
+
+**Run k8s anywhere**
+
+Kubernetes is open source … , letting you effortlessly more `workloads`(워크로드, 업무량, 작업량; 쿠버네티스에서 workload는 ‘파드라는 집합 내에서 구동되는 애플리케이션이라는 의미를 가짐) to where it matters to you.
