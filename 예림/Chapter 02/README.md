@@ -211,3 +211,17 @@ Designed on the same principles that allows Google to run biliions of containers
 **Run k8s anywhere**
 
 Kubernetes is open source … , letting you effortlessly more `workloads`(워크로드, 업무량, 작업량; 쿠버네티스에서 workload는 ‘파드라는 집합 내에서 구동되는 애플리케이션이라는 의미를 가짐) to where it matters to you.
+
+### Kubernetes Intro (2)
+
+**Service discovery and load balancing**
+
+Kubernetes can expose a container using the DNS name or using their own IP address. If traffic to a container is high, Kubernetes is able to load balance and distribute the network traffic so that the deployment is stable.
+
+**Storage orchestration**
+
+Kubernetes allows you to automatically `mount`(탑재하다, 파일 시스템에 올리다) a storage system of your choice, such as local storages, public cloud provides, and more.
+
+**Automated rollouts and rollbacks**
+
+You can describe the desired state for your deployed containers using Kubernetes, and it can change the actual state to the desired state at a controlled rate. For example, you can automate Kubernetes to create new containers for your deployment, remove existing containers and adopt all their resources to the new container.
