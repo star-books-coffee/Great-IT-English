@@ -199,3 +199,7 @@
     - 쿠버네티스에서 workload는 작업량이라는 사전적 의미보다는 "**파드(Pod)라는 집합 내에서 구동되는 애플리케이션**"이라는 의미를 가짐
 - `mount` : 탑재하다, 파일 시스템에 올리다
     - 외장하드, USB 등 외부 스토리지를 시스템에 올리는 것
+- `rollout` : 출시, 공개
+    - 프로젝트, 서비스를 사용자가 사용할 수 있도록 출시하는 것
+- `advertise` : 드러내다, 보이다 (IT 시스템에서는 다른 대상과 상호작용할 수 있도록 시스템이나 애플리케이션을 노출하는 것)
+    - k8s doesn’t advertise them to clients until they are ready to serve.
