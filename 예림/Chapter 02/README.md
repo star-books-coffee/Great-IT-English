@@ -214,14 +214,18 @@ Kubernetes is open source … , letting you effortlessly more `workloads`(워크
 
 ### Kubernetes Intro (2)
 
-**Service discovery and load balancing**
+**Service discovery and load balancing (서비스 디스커버리와 로드 밸런싱)**
 
 Kubernetes can expose a container using the DNS name or using their own IP address. If traffic to a container is high, Kubernetes is able to load balance and distribute the network traffic so that the deployment is stable.
 
-**Storage orchestration**
+**Storage orchestration (스토리지 오케스트레이션)**
 
 Kubernetes allows you to automatically `mount`(탑재하다, 파일 시스템에 올리다) a storage system of your choice, such as local storages, public cloud provides, and more.
 
-**Automated rollouts and rollbacks**
+**Automated rollouts and rollbacks (자동화된 롤아웃과 롤백)**
 
 You can describe the desired state for your deployed containers using Kubernetes, and it can change the actual state to the desired state at a controlled rate. For example, you can automate Kubernetes to create new containers for your deployment, remove existing containers and adopt all their resources to the new container.
+
+**Automatic bin packing (자동화된 빈 패킹)**
+
+You provide Kubernetes with a cluster of nodes that it can use to run containerized tasks. You tell Kubernetes how much CPU and memory(RAM) each container needs. Kubernetes can fit containers onto your nodes to make the best use of your resources.
