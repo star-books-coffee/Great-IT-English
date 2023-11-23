@@ -229,3 +229,23 @@ You can describe the desired state for your deployed containers using Kubernetes
 **Automatic bin packing (자동화된 빈 패킹)**
 
 You provide Kubernetes with a cluster of nodes that it can use to run containerized tasks. You tell Kubernetes how much CPU and memory(RAM) each container needs. Kubernetes can fit containers onto your nodes to make the best use of your resources.
+
+**Self-healing (자동화된 복구)**
+
+Kubernetes restarts containers that fail, replaces containers, kills containers that don’t respond to your `user-defined`(사용자 정의된) health check, and doesn’t `advertise`(알리다, 광고하다) them to client until they are ready to serve.
+
+**Secret and configuration management (보안과 구성 관리)**
+
+Kubernetes lets you store and manage sensitive information such as … and SSH keys. You can deploy and update secrets and application configuration without rebuilding your container images, and without exposing secrets in your stack configuration.
+
+### Simple concepts before we start
+
+**What is Docker**
+
+Docker is a platform for packaging, distribution and running applications. It allows you to package your application together with its whole environment. This can be either a few libraries that the app requires or even all the files that are usually available on the filesystem of an installed operating system. Docker makes it possible to transfer this package to a central repository from which it can then be transferred to any computer running Docker and executed there.
+
+Three main concepts in Docker comprise this scenario:
+
+- **Images** : something you package your application and its environment.
+- **Registries** : repository that stores your Docker images and facilitates easy sharing of those images between different users and computers.
+- **Containers** : regular Linux container created from a Docker-based container image.
