@@ -249,3 +249,7 @@ Three main concepts in Docker comprise this scenario:
 - **Images** : something you package your application and its environment.
 - **Registries** : repository that stores your Docker images and facilitates easy sharing of those images between different users and computers.
 - **Containers** : regular Linux container created from a Docker-based container image.
+
+**What is Kubernetes**
+
+Years ago, most software applications were big monoliths, running either as a single process or as a small number of processes spread across a handful of servers.
