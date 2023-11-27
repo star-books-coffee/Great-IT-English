@@ -253,3 +253,12 @@ Three main concepts in Docker comprise this scenario:
 **What is Kubernetes**
 
 Years ago, most software applications were big monoliths, running either as a single process or as a small number of processes spread across a handful of servers.
+
+
+
+## 6. 블록체인에 기록되는 자동 프로그램, 스마트 컨트랙트
+
+### 블록체인이란?
+
+- 쉽게 말해 전 세계가 공유하는 장부로, 한 번 추가된 기록은 바꿀 수 없으며, 이 장부에 새로운 기록을 추가하거나 기존 기록을 업데이트하려면 장부의 기록을 검증하는 사람들에게 비용을 지불해야 함
+- 장부의 기록을 검증하는 사람들을 채굴자, 비용을 지불해 장부를 업데이트하는 것을 트랜잭션이라고 함
