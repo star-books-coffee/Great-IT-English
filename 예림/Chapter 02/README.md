@@ -264,3 +264,45 @@ Years ago, most software applications were big monoliths, running either as a si
 - 장부의 기록을 검증하는 사람들을 채굴자, 비용을 지불해 장부를 업데이트하는 것을 트랜잭션이라고 함
 - 스마트 컨트랙트는 합의된 내용을 블록체인에 기록하는 것으로 합의된 조건이 충족되면
 자동으로 합의된 내용을 실행
+
+### Ethereum Intro
+
+| 단어 | 뜻 |
+| --- | --- |
+| Digitize | 디지털화하다 |
+| Execute | 실행하다, 수행하다 |
+| Realize | 실현하다, 만들어내다, 달성하다 |
+| Disparate | 서로 전혀 다른, 이질적인 |
+| Audit | 감사하다, 감사 |
+
+### Solidity Intro
+
+Solidity is a curly-bracket language designed to target the Ethereum Virtual Machine(EVM).
+
+With Solidity you can create contracts for uses such as voiting, crowdfunding, blind auctions, and multi-signature wallets.
+
+| 단어 | 뜻 | 비고 |
+| --- | --- | --- |
+| Statically typed | 정적으로 타입된 | 자료형이 명시적으로 선언되어 컴파일 시에 자료형을 결정하거나 체크하는 것 ↔ 자료형을 프로그램 실행 시에 결정하는 동적 타입 (dynamically typed) |
+| Multi-signature | 다중 서명 | 스마트 컨트랙트를 호출하거나 블록체인과 통신하기 위한 트랜잭션을 발생시키려면 다수의 계정으로부터 서명이 필요한 설계 방식 |
+| Breaking change | (하휘 호환되지 않는) 변경 | 이전 버전과 호환되지 않는 중요한 변경 및 수정사항 |
+| Bottom-left corner | 왼쪽 하단 |  |
+
+### A Simple Smart Contract
+
+Storage Example
+```solidity
+// SPDX-License-Identifier: GPL-3.0
+pragma solidity >=0.415<0.9.0;
+contract SimpleStorate {
+	uint storedData;
+	
+	function set(uint x)public {
+		storedData = x;
+	}
+
+	function get() public view returns (uint) {
+		return storedData;
+	}
+}
+```
