@@ -306,4 +306,19 @@ contract SimpleStorate {
 	}
 }
 ```
-### Transaction
+
+### sample event definition
+
+```solidity
+contract Coin {
+	event Sent(address from, address to, uint amount);
+	function send(address receiver, uint amount) public {
+		emit Sent(msg.sender, receiver,amount);
+	}
+}
+```
+
+- gpt
+    - Coin이라는 스마트 계약을 정의하고 있음
+    - 이 계약은 send라는 함수를 포함하고 있는데, 이 함수는 주소(receiver)와 양(amount)을 매개변수로 받아들이고, 이벤트 Sent를 발생시킴
+    - 이 코드를 사용하면 암호화폐 전송과 관련된 거래 내용을 추적하고 이벤트를 통해 기록할 수 있음
