@@ -203,6 +203,37 @@
     - 프로젝트, 서비스를 사용자가 사용할 수 있도록 출시하는 것
 - `advertise` : 드러내다, 보이다 (IT 시스템에서는 다른 대상과 상호작용할 수 있도록 시스템이나 애플리케이션을 노출하는 것)
     - k8s doesn’t advertise them to clients until they are ready to serve.
+- 테스트
+    ```
+    1. C
+    2. B
+    3. B
+    - assigned to / allocated to : ~로 할당된, ~로 지정된 
+    4. D
+    - break down : 세분화하다, 나누다
+    5. B
+    - segregate : 분리시키다
+    6. B
+    7. A -> C
+    - come over : 오다, (갑자기 어떤 기분이) 들다/밀려오다
+    - come together : (하나로) 합치다
+    - come up with : 생산하다, 생각해내다
+    - come in : ~이 작동하다, 개입하다
+    8. A -> B
+    - wait : 기다리다 (자동사; 목적어 불필요)
+    - await : ~을 기다리다 (타동사; 목적어 필요)
+    9. A -> C
+    - numerous (수많은) : 셀 수 있는 명사 앞에서만 사용 가능
+    10. C 
+    - triage : 우선순위를 정하기 위한 분류
+    11. C
+    12. C -> B
+    - reasonable to : ~하기에 적당한
+    13. A
+    14. C -> D
+    - through/by/per : ~을 통해서, ~을 경유해서
+    15. D
+    ```
 
 ## 6. 블록체인에 기록되는 자동 프로그램, 스마트 컨트랙트
 
@@ -225,3 +256,29 @@
 - `multi-signature` : 다중 서명
     - 스마트 컨트랙트를 호출하거나 블록체인과 통신하기 위한 트랜잭션을 발생시키려면, 다수의 계정으로부터 서명이 필요한 설계 방식
 - `breaking change` : (하위 호환되지 않는) 변경
+- 테스트
+    ```
+    1. C
+    2. D -> B
+    3. A -> B
+    - specify : 명시하다
+    - refute : 반박하다
+    4. B
+    5. A
+    6. C -> D
+    7. A -> C
+    8. C
+    - among : ~사이에, ~중에
+    9. C
+    10. B
+    11. B
+    12. C
+    - Regardless of + 명사
+    - Regarding : ~에 대한
+    13. B
+    - from within/from inside : 안으로부터, 안에서부터 
+    14. B
+    - fire : 이벤트를 발생시키다, 프로그램 루틴을 실행하다 (trigger 의 유의어)
+    15. D -> A
+    - let's say (that)~ : ~라고 하자, ~라고 가정해보자
+    ```
