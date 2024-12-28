@@ -1,4 +1,4 @@
-# great-IT-english
+# 위대한 IT 영어
 <img src="https://image.yes24.com/goods/115033619/XL" width="300">
 
 ## 📚 스터디 규칙
